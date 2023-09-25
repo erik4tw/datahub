@@ -3,7 +3,7 @@ from consolidateData import consolidateJsons
 from createTsBotJson import createTeamspeakStationBotJson
 
 combinedFile = "data.json"
-folders_to_sort = ['edgg', 'edmm', 'eduu', 'edww', 'edyy', 'bookingsystem']
+folders_to_sort = ['edgg', 'edmm', 'eduu', 'edww', 'edyy', 'event_schedules']
 folders_to_consolidate = ['edgg', 'edmm', 'eduu', 'edww', 'edyy']
 
 # format all source jsons
