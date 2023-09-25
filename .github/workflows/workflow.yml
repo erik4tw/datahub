@@ -6,7 +6,7 @@ on:
       - "*"
 permissions: write-all
 jobs:
-  build-maps:
+  consolidate-and-sort-data:
     runs-on: ubuntu-latest
     steps:
       - name: checkout repo content
