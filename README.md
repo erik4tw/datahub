@@ -33,3 +33,19 @@ edgg, edmm, edww, eduu, edyy, event_schedules
 
 **The following jsons will be updated automatically:**
 data.json, atc_station_mappings.json
+
+## Scheduled merges
+
+This repository uses [merge-schedule-action](https://github.com/gr2m/merge-schedule-action) to allow merging on [AIRAC cycles](https://www.nm.eurocontrol.int/RAD/common/airac_dates.html).
+
+In your pull requests, add a line to the end of the pull request description looking like this
+
+```
+/schedule 2022-06-08
+```
+
+If you need a more precise, timezone-safe setting, you can use an `ISO 8601` date string
+
+```
+/schedule 2022-06-08T09:00:00.000Z
+```
