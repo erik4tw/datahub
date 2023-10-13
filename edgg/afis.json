@@ -1,0 +1,326 @@
+[
+  {
+    "logon": "EDEH_I_TWR",
+    "frequency": "132.055",
+    "abbreviation": "EHI",
+    "description": "Herrenteich Radio"
+  },
+  {
+    "logon": "EDEL_I_TWR",
+    "frequency": "124.030",
+    "abbreviation": "ELI",
+    "description": "Langenlonsheim Radio"
+  },
+  {
+    "logon": "EDER_I_TWR",
+    "frequency": "120.130",
+    "abbreviation": "ERI",
+    "description": "Wasserkuppe Radio"
+  },
+  {
+    "logon": "EDFA_I_TWR",
+    "frequency": "121.030",
+    "abbreviation": "FAI",
+    "description": "Anspach Radio"
+  },
+  {
+    "logon": "EDFB_I_TWR",
+    "frequency": "120.430",
+    "abbreviation": "FBI",
+    "description": "Reichelsheim Radio"
+  },
+  {
+    "logon": "EDFC_I_TWR",
+    "frequency": "132.430",
+    "abbreviation": "FCI",
+    "description": "Aschaffenburg Radio"
+  },
+  {
+    "logon": "EDFE_I_TWR",
+    "frequency": "118.405",
+    "abbreviation": "FEI",
+    "description": "Egelsbach Radio"
+  },
+  {
+    "logon": "EDFG_I_TWR",
+    "frequency": "123.055",
+    "abbreviation": "FGI",
+    "description": "Gelnhausen Radio"
+  },
+  {
+    "logon": "EDFO_I_TWR",
+    "frequency": "124.515",
+    "abbreviation": "FOI",
+    "description": "Michelstadt Info"
+  },
+  {
+    "logon": "EDFQ_I_TWR",
+    "frequency": "135.165",
+    "abbreviation": "FQI",
+    "description": "Allendorf Radio"
+  },
+  {
+    "logon": "EDFU_I_TWR",
+    "frequency": "121.035",
+    "abbreviation": "FUI",
+    "description": "Mainbullau Radio"
+  },
+  {
+    "logon": "EDFV_I_TWR",
+    "frequency": "124.605",
+    "abbreviation": "FVI",
+    "description": "Worms Radio"
+  },
+  {
+    "logon": "EDFY_I_TWR",
+    "frequency": "128.775",
+    "abbreviation": "FYI",
+    "description": "Elz Radio"
+  },
+  {
+    "logon": "EDFZ_I_TWR",
+    "frequency": "122.930",
+    "abbreviation": "FZI",
+    "description": "Mainz Radio"
+  },
+  {
+    "logon": "EDGP_I_TWR",
+    "frequency": "130.640",
+    "abbreviation": "GPI",
+    "description": "Oppenheim Radio"
+  },
+  {
+    "logon": "EDGS_I_TWR",
+    "frequency": "120.380",
+    "abbreviation": "GSI",
+    "description": "Siegerland Information"
+  },
+  {
+    "logon": "EDKA_I_TWR",
+    "frequency": "122.880",
+    "abbreviation": "KAI",
+    "description": "Aachen Radio"
+  },
+  {
+    "logon": "EDKB_I_TWR",
+    "frequency": "135.155",
+    "abbreviation": "KBI",
+    "description": "Bonn-Hangelar Radio"
+  },
+  {
+    "logon": "EDKF_I_TWR",
+    "frequency": "125.840",
+    "abbreviation": "KFI",
+    "description": "Bergneustadt Radio"
+  },
+  {
+    "logon": "EDKL_I_TWR",
+    "frequency": "122.430",
+    "abbreviation": "KLI",
+    "description": "Leverkusen Radio"
+  },
+  {
+    "logon": "EDKM_I_TWR",
+    "frequency": "126.015",
+    "abbreviation": "KMI",
+    "description": "Meschede Radio"
+  },
+  {
+    "logon": "EDLD_I_TWR",
+    "frequency": "122.705",
+    "abbreviation": "LDI",
+    "description": "Dinslaken Radio"
+  },
+  {
+    "logon": "EDLE_I_TWR",
+    "frequency": "119.755",
+    "abbreviation": "LEI",
+    "description": "Essen/Muelheim Radio"
+  },
+  {
+    "logon": "EDLH_I_TWR",
+    "frequency": "134.055",
+    "abbreviation": "LHI",
+    "description": "Hamm Radio"
+  },
+  {
+    "logon": "EDLI_I_TWR",
+    "frequency": "118.355",
+    "abbreviation": "LII",
+    "description": "Bielefeld Radio"
+  },
+  {
+    "logon": "EDLM_I_TWR",
+    "frequency": "134.610",
+    "abbreviation": "LMI",
+    "description": "Marl Radio"
+  },
+  {
+    "logon": "EDLO_I_TWR",
+    "frequency": "136.410",
+    "abbreviation": "LOI",
+    "description": "Oerlinghausen Info"
+  },
+  {
+    "logon": "EDLT_I_TWR",
+    "frequency": "122.855",
+    "abbreviation": "LTI",
+    "description": "Telgte Radio"
+  },
+  {
+    "logon": "EDLZ_I_TWR",
+    "frequency": "133.465",
+    "abbreviation": "LZI",
+    "description": "Soest Radio"
+  },
+  {
+    "logon": "EDPA_I_TWR",
+    "frequency": "121.405",
+    "abbreviation": "PAI",
+    "description": "Aalen Radio"
+  },
+  {
+    "logon": "EDPU_I_TWR",
+    "frequency": "135.115",
+    "abbreviation": "PUI",
+    "description": "Bartholomae Start"
+  },
+  {
+    "logon": "EDPY_I_TWR",
+    "frequency": "121.235",
+    "abbreviation": "PYI",
+    "description": "Ellwangen Radio"
+  },
+  {
+    "logon": "EDRA_I_TWR",
+    "frequency": "122.355",
+    "abbreviation": "RAI",
+    "description": "Neuenahr Radio"
+  },
+  {
+    "logon": "EDRF_I_TWR",
+    "frequency": "122.405",
+    "abbreviation": "RFI",
+    "description": "Duerkheim Radio"
+  },
+  {
+    "logon": "EDRJ_I_TWR",
+    "frequency": "121.210",
+    "abbreviation": "RJI",
+    "description": "Saarlouis Radio"
+  },
+  {
+    "logon": "EDRK_I_TWR",
+    "frequency": "122.655",
+    "abbreviation": "RKI",
+    "description": "Koblenz Radio"
+  },
+  {
+    "logon": "EDRM_I_TWR",
+    "frequency": "129.035",
+    "abbreviation": "RMI",
+    "description": "Traben-Trarbach Radio"
+  },
+  {
+    "logon": "EDRY_I_TWR",
+    "frequency": "118.080",
+    "abbreviation": "RYI",
+    "description": "Speyer Radio"
+  },
+  {
+    "logon": "EDRZ_I_TWR",
+    "frequency": "123.830",
+    "abbreviation": "RZI",
+    "description": "Zweibruecken Information"
+  },
+  {
+    "logon": "EDSH_I_TWR",
+    "frequency": "123.710",
+    "abbreviation": "SHI",
+    "description": "Backnang Radio"
+  },
+  {
+    "logon": "EDST_I_TWR",
+    "frequency": "125.615",
+    "abbreviation": "STI",
+    "description": "Hahnweide Radio"
+  },
+  {
+    "logon": "EDTC_I_TWR",
+    "frequency": "123.990",
+    "abbreviation": "TCI",
+    "description": "Bruchsal Radio"
+  },
+  {
+    "logon": "EDTD_I_TWR",
+    "frequency": "126.690",
+    "abbreviation": "TDI",
+    "description": "Donaueschingen Radio"
+  },
+  {
+    "logon": "EDTF_I_TWR",
+    "frequency": "118.255",
+    "abbreviation": "TFI",
+    "description": "Freiburg Radio"
+  },
+  {
+    "logon": "EDTH_I_TWR",
+    "frequency": "134.115",
+    "abbreviation": "THI",
+    "description": "Heubach Radio"
+  },
+  {
+    "logon": "EDTM_I_TWR",
+    "frequency": "135.180",
+    "abbreviation": "TMI",
+    "description": "Mengen Information"
+  },
+  {
+    "logon": "EDTO_I_TWR",
+    "frequency": "132.040",
+    "abbreviation": "TOI",
+    "description": "Offenburg Radio"
+  },
+  {
+    "logon": "EDTQ_I_TWR",
+    "frequency": "124.610",
+    "abbreviation": "TQI",
+    "description": "Pattonville Radio"
+  },
+  {
+    "logon": "EDTS_I_TWR",
+    "frequency": "127.535",
+    "abbreviation": "TSI",
+    "description": "Schwenningen Radio"
+  },
+  {
+    "logon": "EDTU_I_TWR",
+    "frequency": "123.605",
+    "abbreviation": "TUI",
+    "description": "Saulgau Radio"
+  },
+  {
+    "logon": "EDTW_I_TWR",
+    "frequency": "118.390",
+    "abbreviation": "TWI",
+    "description": "Winzeln Radio"
+  },
+  {
+    "logon": "EDTY_I_TWR",
+    "frequency": "129.230",
+    "abbreviation": "TYI",
+    "description": "Schwaebisch Hall Information"
+  },
+  {
+    "logon": "EDTZ_I_TWR",
+    "frequency": "124.355",
+    "abbreviation": "TZI",
+    "description": "Konstanz Radio"
+  },
+  {
+    "logon": "ETHN_I_TWR",
+    "frequency": "119.780",
+    "abbreviation": "HNI",
+    "description": "Stetten Radio"
+  }
+]
