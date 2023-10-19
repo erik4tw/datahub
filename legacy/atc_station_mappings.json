@@ -285,6 +285,21 @@
     "frequency": "124.355"
   },
   {
+    "id": "SAL",
+    "callsignPrefix": "EDUU",
+    "frequency": "133.860"
+  },
+  {
+    "id": "CHI",
+    "callsignPrefix": "EDUU",
+    "frequency": "123.390"
+  },
+  {
+    "id": "DON",
+    "callsignPrefix": "EDUU",
+    "frequency": "127.290"
+  },
+  {
     "id": "FFM",
     "callsignPrefix": "EDUU",
     "frequency": "132.330"
@@ -295,9 +310,44 @@
     "frequency": "133.655"
   },
   {
+    "id": "HVL",
+    "callsignPrefix": "EDUU",
+    "frequency": "128.235"
+  },
+  {
+    "id": "ISA",
+    "callsignPrefix": "EDUU",
+    "frequency": "136.335"
+  },
+  {
+    "id": "ALP",
+    "callsignPrefix": "EDUU",
+    "frequency": "133.755"
+  },
+  {
     "id": "NTM",
     "callsignPrefix": "EDUU",
     "frequency": "132.080"
+  },
+  {
+    "id": "OH2",
+    "callsignPrefix": "EDUU",
+    "frequency": "126.785"
+  },
+  {
+    "id": "OSE",
+    "callsignPrefix": "EDUU",
+    "frequency": "133.035"
+  },
+  {
+    "id": "SPE",
+    "callsignPrefix": "EDUU",
+    "frequency": "133.285"
+  },
+  {
+    "id": "ERL",
+    "callsignPrefix": "EDUU",
+    "frequency": "136.405"
   },
   {
     "id": "SLN",
