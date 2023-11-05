@@ -49,6 +49,9 @@ def createScheduleJson(inputFile, outputFile):
         # Convert the grouped data into a list of objects
         json_data = list(grouped_data.values())
 
+        # sort the data by name key
+        json_data.sort(key=lambda x: (x['name']))
+
         # Export the JSON data to a file
         with open(outputFile, "w") as json_file:
             json.dump(json_data, json_file, indent=4)
