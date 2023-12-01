@@ -1305,6 +1305,11 @@
     "frequency": "123.225"
   },
   {
+    "id": "WC",
+    "callsignPrefix": "EDWW",
+    "frequency": "133.725"
+  },
+  {
     "id": "DST",
     "callsignPrefix": "EDWW",
     "frequency": "128.760"
@@ -1410,6 +1415,11 @@
     "frequency": "133.205"
   },
   {
+    "id": "HCT",
+    "callsignPrefix": "ETHC",
+    "frequency": "118.255"
+  },
+  {
     "id": "HLT",
     "callsignPrefix": "ETHL",
     "frequency": "122.100"
@@ -1430,9 +1440,24 @@
     "frequency": "122.100"
   },
   {
+    "id": "HST",
+    "callsignPrefix": "ETHS",
+    "frequency": "118.525"
+  },
+  {
     "id": "ICT",
     "callsignPrefix": "ETIC",
     "frequency": "122.075"
+  },
+  {
+    "id": "MNR",
+    "callsignPrefix": "ETMN",
+    "frequency": "129.855"
+  },
+  {
+    "id": "MNT",
+    "callsignPrefix": "ETMN",
+    "frequency": "131.255"
   },
   {
     "id": "TNGA",
@@ -1443,6 +1468,21 @@
     "id": "TNGT",
     "callsignPrefix": "ETNG",
     "frequency": "120.055"
+  },
+  {
+    "id": "NHR",
+    "callsignPrefix": "ETNH",
+    "frequency": "122.700"
+  },
+  {
+    "id": "NHP",
+    "callsignPrefix": "ETNH",
+    "frequency": "125.600"
+  },
+  {
+    "id": "NHT",
+    "callsignPrefix": "ETNH",
+    "frequency": "122.100"
   },
   {
     "id": "NLR",
@@ -1473,6 +1513,36 @@
     "id": "TNNT",
     "callsignPrefix": "ETNN",
     "frequency": "136.205"
+  },
+  {
+    "id": "NSR",
+    "callsignPrefix": "ETNS",
+    "frequency": "123.300"
+  },
+  {
+    "id": "NSP",
+    "callsignPrefix": "ETNS",
+    "frequency": "133.105"
+  },
+  {
+    "id": "NST",
+    "callsignPrefix": "ETNS",
+    "frequency": "135.155"
+  },
+  {
+    "id": "NTR",
+    "callsignPrefix": "ETNT",
+    "frequency": "123.600"
+  },
+  {
+    "id": "NTT",
+    "callsignPrefix": "ETNT",
+    "frequency": "118.730"
+  },
+  {
+    "id": "NWT",
+    "callsignPrefix": "ETNW",
+    "frequency": "132.055"
   },
   {
     "id": "OUT",
