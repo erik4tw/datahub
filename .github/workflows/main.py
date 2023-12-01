@@ -1,4 +1,5 @@
 import sys
+from check import dataValid
 from formatJsons import format_and_sort_json_files
 from consolidateData import consolidateJsons
 from createTsBotJson import createTeamspeakStationBotJson
@@ -7,8 +8,10 @@ from removeRedundant import removeRedundantScheduleEntries
 
 try:
     combinedFile = "data.json"
-    folders_to_sort = ['edgg', 'edmm', 'eduu', 'edww', 'edyy', 'event_schedules']
-    folders_to_consolidate = ['edgg', 'edmm', 'eduu', 'edww', 'edyy']
+    folders_to_sort = ["edgg", "edmm", "eduu", "edww", "edyy", "event_schedules"]
+    folders_to_consolidate = ["edgg", "edmm", "eduu", "edww", "edyy"]
+
+    dataValid(folders_to_consolidate)
 
     # remove redundant schedule_groups entries
     removeRedundantScheduleEntries(folders_to_consolidate)
@@ -27,3 +30,4 @@ try:
 
 except Exception as error:
     print(error)
+    sys.exit(1)
