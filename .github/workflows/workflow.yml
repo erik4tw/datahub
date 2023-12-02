@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - "*"
+      - "*/**"
       - "!main" # Exclude the main branch
 permissions: write-all
 jobs:
