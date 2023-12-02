@@ -58,48 +58,62 @@
     "frequency": "133.860",
     "abbreviation": "SAL",
     "description": "Rhein Radar (Saale)",
-    "schedule_groups": ["EDMM"]
+    "schedule_groups": [
+      "EDMM"
+    ]
   },
   {
     "logon": "EDUU_CHI_CTR",
     "frequency": "123.390",
     "abbreviation": "CHI",
     "description": "Rhein Radar (Chiem)",
-    "schedule_groups": ["EDMM"]
+    "schedule_groups": [
+      "EDMM"
+    ]
   },
   {
     "logon": "EDUU_DON_CTR",
     "frequency": "127.290",
     "abbreviation": "DON",
     "description": "Rhein Radar (Donau)",
-    "schedule_groups": ["EDMM"]
+    "schedule_groups": [
+      "EDMM"
+    ]
   },
   {
     "logon": "EDUU_ISA_CTR",
     "frequency": "136.335",
     "abbreviation": "ISA",
     "description": "Rhein Radar (Isar)",
-    "schedule_groups": ["EDMM"]
+    "schedule_groups": [
+      "EDMM"
+    ]
   },
   {
     "logon": "EDUU_ALP_CTR",
     "frequency": "133.755",
     "abbreviation": "ALP",
     "description": "Rhein Radar (Alpen)",
-    "schedule_groups": ["EDMM"]
+    "schedule_groups": [
+      "EDMM"
+    ]
   },
   {
     "logon": "EDUU_P_CTR",
     "frequency": "133.285",
     "abbreviation": "SPE",
     "description": "Rhein Radar (Spree)",
-    "schedule_groups": ["EDMM"]
+    "schedule_groups": [
+      "EDMM"
+    ]
   },
   {
     "logon": "EDUU_R_CTR",
     "frequency": "136.405",
     "abbreviation": "ERL",
     "description": "Rhein Radar (Erlangen)",
-    "schedule_groups": ["EDMM"]
+    "schedule_groups": [
+      "EDMM"
+    ]
   }
 ]

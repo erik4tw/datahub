@@ -1,31 +1,5 @@
 [
     {
-        "name": "D",
-        "schedule_minstation": [],
-        "schedule_group": [
-            "EDUU_ALP_CTR",
-            "EDUU_A_CTR",
-            "EDUU_CHI_CTR",
-            "EDUU_DON_CTR",
-            "EDUU_ISA_CTR",
-            "EDUU_P_CTR",
-            "EDUU_R_CTR"
-        ]
-    },
-    {
-        "name": "E",
-        "schedule_minstation": [],
-        "schedule_group": [
-            "EDUU_ALP_CTR",
-            "EDUU_A_CTR",
-            "EDUU_CHI_CTR",
-            "EDUU_DON_CTR",
-            "EDUU_ISA_CTR",
-            "EDUU_P_CTR",
-            "EDUU_R_CTR"
-        ]
-    },
-    {
         "name": "EDFF",
         "schedule_minstation": [
             "EDDF_C_GND",
@@ -234,6 +208,13 @@
             "EDMM_TEG_CTR",
             "EDMM_TRU_CTR",
             "EDMM_WLD_CTR",
+            "EDUU_ALP_CTR",
+            "EDUU_A_CTR",
+            "EDUU_CHI_CTR",
+            "EDUU_DON_CTR",
+            "EDUU_ISA_CTR",
+            "EDUU_P_CTR",
+            "EDUU_R_CTR",
             "ETHL_TWR",
             "ETIC_TWR",
             "ETSI_APP",
@@ -319,26 +300,6 @@
             "ETNW_TWR",
             "ETSH_APP",
             "ETSH_TWR"
-        ]
-    },
-    {
-        "name": "M",
-        "schedule_minstation": [],
-        "schedule_group": [
-            "EDUU_ALP_CTR",
-            "EDUU_ALP_CTR",
-            "EDUU_A_CTR",
-            "EDUU_A_CTR",
-            "EDUU_CHI_CTR",
-            "EDUU_CHI_CTR",
-            "EDUU_DON_CTR",
-            "EDUU_DON_CTR",
-            "EDUU_ISA_CTR",
-            "EDUU_ISA_CTR",
-            "EDUU_P_CTR",
-            "EDUU_P_CTR",
-            "EDUU_R_CTR",
-            "EDUU_R_CTR"
         ]
     }
 ]
