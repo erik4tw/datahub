@@ -1288,7 +1288,8 @@
     "schedule_groups": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "cpdlc_login": "EDGB"
   },
   {
     "logon": "EDGG_DKB_CTR",
@@ -1302,7 +1303,8 @@
     "relevant_airports": [
       "EDDF",
       "EDDS"
-    ]
+    ],
+    "cpdlc_login": "EDGD"
   },
   {
     "logon": "EDGG_GED_CTR",
@@ -1328,7 +1330,8 @@
     ],
     "relevant_airports": [
       "EDDF"
-    ]
+    ],
+    "cpdlc_login": "EDGG"
   },
   {
     "logon": "EDGG_HAB_CTR",
@@ -1385,7 +1388,8 @@
     "relevant_airports": [
       "EDDF",
       "EDDS"
-    ]
+    ],
+    "cpdlc_login": "EDGK"
   },
   {
     "logon": "EDGG_LBU_CTR",
@@ -1429,7 +1433,8 @@
     "relevant_airports": [
       "EDDL",
       "EDDK"
-    ]
+    ],
+    "cpdlc_login": "EDGP"
   },
   {
     "logon": "EDGG_PSA_CTR",
@@ -1450,7 +1455,8 @@
       "EDFF",
       "EDGG",
       "EDLL"
-    ]
+    ],
+    "cpdlc_login": "EDGR"
   },
   {
     "logon": "EDGG_SIG_CTR",
@@ -1774,7 +1780,8 @@
     ],
     "relevant_airports": [
       "EDDM"
-    ]
+    ],
+    "cpdlc_login": "EDML"
   },
   {
     "logon": "EDMM_B_CTR",
@@ -1786,7 +1793,8 @@
     ],
     "relevant_airports": [
       "EDDN"
-    ]
+    ],
+    "cpdlc_login": "EDMB"
   },
   {
     "logon": "EDMM_CTR",
@@ -1795,7 +1803,8 @@
     "description": "M\u00fcnchen Radar (Complete)",
     "schedule-groups": [
       "EDMM"
-    ]
+    ],
+    "cpdlc_login": "EDMM"
   },
   {
     "logon": "EDMM_EGG_CTR",
@@ -1807,7 +1816,8 @@
     ],
     "relevant_airports": [
       "EDDM"
-    ]
+    ],
+    "cpdlc_login": "EDME"
   },
   {
     "logon": "EDMM_FUE_CTR",
@@ -1830,7 +1840,8 @@
       "EDDP",
       "EDDC",
       "EDDE"
-    ]
+    ],
+    "cpdlc_login": "EDMG"
   },
   {
     "logon": "EDMM_H_CTR",
@@ -1844,7 +1855,8 @@
       "EDDP",
       "EDDC",
       "EDDE"
-    ]
+    ],
+    "cpdlc_login": "EDMH"
   },
   {
     "logon": "EDMM_M_CTR",
@@ -1858,7 +1870,8 @@
       "EDDP",
       "EDDC",
       "EDDE"
-    ]
+    ],
+    "cpdlc_login": "EDMS"
   },
   {
     "logon": "EDMM_NDG_CTR",
@@ -1870,7 +1883,8 @@
     ],
     "relevant_airports": [
       "EDDM"
-    ]
+    ],
+    "cpdlc_login": "EDMN"
   },
   {
     "logon": "EDMM_O_CTR",
@@ -1885,7 +1899,8 @@
       "EDDP",
       "EDDC",
       "EDDE"
-    ]
+    ],
+    "cpdlc_login": "EDMO"
   },
   {
     "logon": "EDMM_RDG_CTR",
@@ -1898,7 +1913,8 @@
     "relevant_airports": [
       "EDDM",
       "EDDN"
-    ]
+    ],
+    "cpdlc_login": "EDMR"
   },
   {
     "logon": "EDMM_STA_CTR",
@@ -1941,7 +1957,8 @@
     "description": "M\u00fcnchen Radar (Traun)",
     "schedule_groups": [
       "EDMM"
-    ]
+    ],
+    "cpdlc_login": "EDMU"
   },
   {
     "logon": "EDMM_WLD_CTR",
@@ -1962,7 +1979,8 @@
     ],
     "relevant_airports": [
       "EDDM"
-    ]
+    ],
+    "cpdlc_login": "EDMZ"
   },
   {
     "logon": "EDMO_TWR",
@@ -2308,7 +2326,8 @@
     "description": "Rhein Radar (Alpen)",
     "schedule_groups": [
       "EDMM"
-    ]
+    ],
+    "cpdlc_login": "EDUL"
   },
   {
     "logon": "EDUU_A_CTR",
@@ -2317,7 +2336,8 @@
     "description": "Rhein Radar (Saale)",
     "schedule_groups": [
       "EDMM"
-    ]
+    ],
+    "cpdlc_login": "EDUA"
   },
   {
     "logon": "EDUU_CHI_CTR",
@@ -2326,7 +2346,8 @@
     "description": "Rhein Radar (Chiem)",
     "schedule_groups": [
       "EDMM"
-    ]
+    ],
+    "cpdlc_login": "EDUC"
   },
   {
     "logon": "EDUU_DON_CTR",
@@ -2335,7 +2356,8 @@
     "description": "Rhein Radar (Donau)",
     "schedule_groups": [
       "EDMM"
-    ]
+    ],
+    "cpdlc_login": "EDUD"
   },
   {
     "logon": "EDUU_FFM_CTR",
@@ -2345,7 +2367,8 @@
     "schedule_minstation": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "cpdlc_login": "EDUF"
   },
   {
     "logon": "EDUU_FUL_CTR",
@@ -2355,7 +2378,8 @@
     "schedule_minstation": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "cpdlc_login": "EDUU"
   },
   {
     "logon": "EDUU_H_CTR",
@@ -2364,7 +2388,8 @@
     "description": "Rhein Radar (Havel)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "cpdlc_login": "EDUH"
   },
   {
     "logon": "EDUU_ISA_CTR",
@@ -2373,7 +2398,8 @@
     "description": "Rhein Radar (Isar)",
     "schedule_groups": [
       "EDMM"
-    ]
+    ],
+    "cpdlc_login": "EDUI"
   },
   {
     "logon": "EDUU_NTM_CTR",
@@ -2383,7 +2409,8 @@
     "schedule_minstation": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "cpdlc_login": "EDUN"
   },
   {
     "logon": "EDUU_OH_CTR",
@@ -2392,7 +2419,8 @@
     "description": "Rhein Radar (Ostsee High)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "cpdlc_login": "EDU2"
   },
   {
     "logon": "EDUU_O_CTR",
@@ -2401,7 +2429,8 @@
     "description": "Rhein Radar (Ostsee)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "cpdlc_login": "EDUO"
   },
   {
     "logon": "EDUU_P_CTR",
@@ -2410,7 +2439,8 @@
     "description": "Rhein Radar (Spree)",
     "schedule_groups": [
       "EDMM"
-    ]
+    ],
+    "cpdlc_login": "EDUP"
   },
   {
     "logon": "EDUU_R_CTR",
@@ -2419,7 +2449,8 @@
     "description": "Rhein Radar (Erlangen)",
     "schedule_groups": [
       "EDMM"
-    ]
+    ],
+    "cpdlc_login": "EDUR"
   },
   {
     "logon": "EDUU_SLN_CTR",
@@ -2429,7 +2460,8 @@
     "schedule_minstation": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "cpdlc_login": "EDUS"
   },
   {
     "logon": "EDUU_TGO_CTR",
@@ -2439,7 +2471,8 @@
     "schedule_minstation": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "cpdlc_login": "EDUT"
   },
   {
     "logon": "EDUU_WUR_CTR",
@@ -2449,7 +2482,8 @@
     "schedule_minstation": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "cpdlc_login": "EDUW"
   },
   {
     "logon": "EDVC_I_TWR",
@@ -2609,7 +2643,8 @@
     "relevant_airports": [
       "EDDH",
       "EDDW"
-    ]
+    ],
+    "cpdlc_login": "EDWA"
   },
   {
     "logon": "EDWW_B_CTR",
@@ -2621,7 +2656,8 @@
     ],
     "relevant_airports": [
       "EDDB"
-    ]
+    ],
+    "cpdlc_login": "EDWB"
   },
   {
     "logon": "EDWW_CTR",
@@ -2636,7 +2672,8 @@
       "EDDH",
       "EDDV",
       "EDDW"
-    ]
+    ],
+    "cpdlc_login": "EDWC"
   },
   {
     "logon": "EDWW_D_CTR",
@@ -2648,7 +2685,8 @@
     ],
     "relevant_airports": [
       "EDDV"
-    ]
+    ],
+    "cpdlc_login": "EDWD"
   },
   {
     "logon": "EDWW_E_CTR",
@@ -2660,7 +2698,8 @@
     ],
     "relevant_airports": [
       "EDDB"
-    ]
+    ],
+    "cpdlc_login": "EDWE"
   },
   {
     "logon": "EDWW_F_CTR",
@@ -2672,7 +2711,8 @@
     ],
     "relevant_airports": [
       "EDDB"
-    ]
+    ],
+    "cpdlc_login": "EDWF"
   },
   {
     "logon": "EDWW_H_CTR",
@@ -2696,7 +2736,8 @@
     ],
     "relevant_airports": [
       "EDDB"
-    ]
+    ],
+    "cpdlc_login": "EDWK"
   },
   {
     "logon": "EDWW_M_CTR",
@@ -2708,7 +2749,8 @@
     ],
     "relevant_airports": [
       "EDDB"
-    ]
+    ],
+    "cpdlc_login": "EDWM"
   },
   {
     "logon": "EDWW_R_CTR",
@@ -2732,7 +2774,8 @@
     ],
     "relevant_airports": [
       "EDDV"
-    ]
+    ],
+    "cpdlc_login": "EDWS"
   },
   {
     "logon": "EDWW_W_CTR",
@@ -2746,7 +2789,8 @@
       "EDDH",
       "EDDV",
       "EDDW"
-    ]
+    ],
+    "cpdlc_login": "EDWW"
   },
   {
     "logon": "EDWY_I_TWR",
@@ -2926,7 +2970,8 @@
     "description": "Maastricht Radar (Celle High)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "cpdlc_login": "EDCH"
   },
   {
     "logon": "EDYY_C_CTR",
@@ -2935,7 +2980,8 @@
     "description": "Maastricht Radar (Celle)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "cpdlc_login": "EDYC"
   },
   {
     "logon": "EDYY_H_CTR",
@@ -2944,7 +2990,8 @@
     "description": "Maastricht Radar (Holstein)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "cpdlc_login": "EDYH"
   },
   {
     "logon": "EDYY_JH_CTR",
@@ -2953,7 +3000,8 @@
     "description": "Maastricht Radar (Jever High)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "cpdlc_login": "EDJH"
   },
   {
     "logon": "EDYY_J_CTR",
@@ -2962,7 +3010,8 @@
     "description": "Maastricht Radar (Jever)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "cpdlc_login": "EDYJ"
   },
   {
     "logon": "EDYY_MNS_CTR",
@@ -2971,13 +3020,15 @@
     "description": "Maastricht Radar (Muenster)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "cpdlc_login": "EDYM"
   },
   {
     "logon": "EDYY_RHR_CTR",
     "frequency": "124.435",
     "abbreviation": "RHR",
-    "description": "Maastricht Radar (Ruhr)"
+    "description": "Maastricht Radar (Ruhr)",
+    "cpdlc_login": "EDYR"
   },
   {
     "logon": "EDYY_SH_CTR",
@@ -2986,7 +3037,8 @@
     "description": "Maastricht Radar (Solling High)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "cpdlc_login": "EDSH"
   },
   {
     "logon": "EDYY_S_CTR",
@@ -2995,7 +3047,8 @@
     "description": "Maastricht Radar (Solling)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "cpdlc_login": "EDYS"
   },
   {
     "logon": "ETAR_GND",

@@ -6,7 +6,8 @@
     "description": "Maastricht Radar (Celle)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "cpdlc_login": "EDYC"
   },
   {
     "logon": "EDYY_CH_CTR",
@@ -15,7 +16,8 @@
     "description": "Maastricht Radar (Celle High)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "cpdlc_login": "EDCH"
   },
   {
     "logon": "EDYY_H_CTR",
@@ -24,7 +26,8 @@
     "description": "Maastricht Radar (Holstein)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "cpdlc_login": "EDYH"
   },
   {
     "logon": "EDYY_J_CTR",
@@ -33,7 +36,8 @@
     "description": "Maastricht Radar (Jever)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "cpdlc_login": "EDYJ"
   },
   {
     "logon": "EDYY_JH_CTR",
@@ -42,7 +46,8 @@
     "description": "Maastricht Radar (Jever High)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "cpdlc_login": "EDJH"
   },
   {
     "logon": "EDYY_MNS_CTR",
@@ -51,13 +56,15 @@
     "description": "Maastricht Radar (Muenster)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "cpdlc_login": "EDYM"
   },
   {
     "logon": "EDYY_RHR_CTR",
     "frequency": "124.435",
     "abbreviation": "RHR",
-    "description": "Maastricht Radar (Ruhr)"
+    "description": "Maastricht Radar (Ruhr)",
+    "cpdlc_login": "EDYR"
   },
   {
     "logon": "EDYY_S_CTR",
@@ -66,7 +73,8 @@
     "description": "Maastricht Radar (Solling)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "cpdlc_login": "EDYS"
   },
   {
     "logon": "EDYY_SH_CTR",
@@ -75,6 +83,7 @@
     "description": "Maastricht Radar (Solling High)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "cpdlc_login": "EDSH"
   }
 ]
