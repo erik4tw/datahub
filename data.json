@@ -3019,7 +3019,9 @@
     "abbreviation": "MNS",
     "description": "Maastricht Radar (Muenster)",
     "schedule_groups": [
-      "EDWW"
+      "EDWW",
+      "EDLL",
+      "EDGG"
     ],
     "cpdlc_login": "EDYM"
   },
@@ -3028,6 +3030,10 @@
     "frequency": "124.435",
     "abbreviation": "RHR",
     "description": "Maastricht Radar (Ruhr)",
+    "schedule_groups": [
+      "EDGG",
+      "EDLL"
+    ],
     "cpdlc_login": "EDYR"
   },
   {
