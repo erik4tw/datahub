@@ -64,11 +64,11 @@
   {
     "logon": "EDYY_RHR_CTR",
     "frequency": "124.435",
-    "abbreviation": "RHR",
     "description": "Maastricht Radar (Ruhr)",
-    "schedule_groups": [
+    "schedule_minstation": [
       "EDGG",
-      "EDLL"
+      "EDLL",
+      "EDFF"
     ],
     "cpdlc_login": "EDYR"
   },

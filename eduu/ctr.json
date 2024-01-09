@@ -16,8 +16,9 @@
     "abbreviation": "FUL",
     "description": "Rhein Radar (Fulda)",
     "schedule_minstation": [
-      "EDFF",
-      "EDGG"
+      "EDGG",
+      "EDLL",
+      "EDFF"
     ],
     "cpdlc_login": "EDUU"
   },
@@ -38,8 +39,9 @@
     "abbreviation": "SLN",
     "description": "Rhein Radar (S\u00f6llingen)",
     "schedule_minstation": [
-      "EDFF",
-      "EDGG"
+      "EDGG",
+      "EDLL",
+      "EDFF"
     ],
     "cpdlc_login": "EDUS"
   },
