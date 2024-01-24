@@ -293,6 +293,16 @@
     ]
   },
   {
+    "logon": "EDDF_CO_DEL",
+    "frequency": "122.035",
+    "abbreviation": "DFC",
+    "description": "Frankfurt Delivery Coordinator",
+    "schedule_groups": [
+      "EDGG",
+      "EDFF"
+    ]
+  },
+  {
     "logon": "EDDF_C_GND",
     "frequency": "121.855",
     "abbreviation": "DFGC",
@@ -587,6 +597,16 @@
     ]
   },
   {
+    "logon": "EDDK_CO_DEL",
+    "frequency": "121.855",
+    "abbreviation": "DKC",
+    "description": "K\u00f6ln/Bonn Delivery Coordinator",
+    "schedule_groups": [
+      "EDGG",
+      "EDLL"
+    ]
+  },
+  {
     "logon": "EDDK_DEL",
     "frequency": "121.855",
     "abbreviation": "DKC",
@@ -668,6 +688,16 @@
     ],
     "schedule_groups": [
       "EDGG"
+    ]
+  },
+  {
+    "logon": "EDDL_CO_DEL",
+    "frequency": "121.780",
+    "abbreviation": "DLC",
+    "description": "D\u00fcsseldorf Delivery Coordinator",
+    "schedule_groups": [
+      "EDGG",
+      "EDLL"
     ]
   },
   {
@@ -1005,6 +1035,16 @@
     "schedule_groups": [
       "EDFF",
       "EDGG"
+    ]
+  },
+  {
+    "logon": "EDDS_CO_DEL",
+    "frequency": "121.915",
+    "abbreviation": "DSC",
+    "description": "Stuttgart Delivery Coordinator",
+    "schedule_groups": [
+      "EDGG",
+      "EDFF"
     ]
   },
   {
