@@ -5,7 +5,9 @@
     "abbreviation": "DFGE",
     "description": "Frankfurt Apron (East)",
     "schedule_minstation": [
-      "EDFF",
+      "EDFF"
+    ],
+    "schedule_groups": [
       "EDGG"
     ]
   },

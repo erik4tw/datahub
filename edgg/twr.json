@@ -17,7 +17,9 @@
     "abbreviation": "DFTW",
     "description": "Frankfurt Tower (West)",
     "schedule_minstation": [
-      "EDFF",
+      "EDFF"
+    ],
+    "schedule_groups": [
       "EDGG"
     ]
   },

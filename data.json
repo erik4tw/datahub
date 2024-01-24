@@ -328,7 +328,9 @@
     "abbreviation": "DFGE",
     "description": "Frankfurt Apron (East)",
     "schedule_minstation": [
-      "EDFF",
+      "EDFF"
+    ],
+    "schedule_groups": [
       "EDGG"
     ]
   },
@@ -466,7 +468,9 @@
     "abbreviation": "DFTW",
     "description": "Frankfurt Tower (West)",
     "schedule_minstation": [
-      "EDFF",
+      "EDFF"
+    ],
+    "schedule_groups": [
       "EDGG"
     ]
   },
@@ -598,9 +602,7 @@
     "abbreviation": "DKAT",
     "description": "K\u00f6ln/Bonn Director",
     "schedule_minstation": [
-      "EDLL"
-    ],
-    "schedule_groups": [
+      "EDLL",
       "EDGG"
     ]
   },
@@ -706,9 +708,7 @@
     "abbreviation": "DLAT",
     "description": "D\u00fcsseldorf Director",
     "schedule_minstation": [
-      "EDLL"
-    ],
-    "schedule_groups": [
+      "EDLL",
       "EDGG"
     ]
   },
@@ -1022,7 +1022,7 @@
     "frequency": "119.850",
     "abbreviation": "DSAT",
     "description": "Stuttgart Director",
-    "schedule_groups": [
+    "schedule_minstation": [
       "EDFF",
       "EDGG"
     ]
