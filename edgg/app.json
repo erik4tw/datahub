@@ -35,9 +35,7 @@
     "abbreviation": "DFAS",
     "description": "Langen Radar (Frankfurt Arrival South)",
     "schedule_minstation": [
-      "EDFF"
-    ],
-    "schedule_groups": [
+      "EDFF",
       "EDGG"
     ]
   },
@@ -47,9 +45,7 @@
     "abbreviation": "DFANT",
     "description": "Frankfurt Director (North)",
     "schedule_minstation": [
-      "EDFF"
-    ],
-    "schedule_groups": [
+      "EDFF",
       "EDGG"
     ]
   },
