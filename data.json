@@ -324,7 +324,7 @@
   },
   {
     "logon": "EDDF_DEL",
-    "frequency": "121.905",
+    "frequency": "122.035",
     "abbreviation": "DFC",
     "description": "Frankfurt Delivery",
     "schedule_minstation": [
