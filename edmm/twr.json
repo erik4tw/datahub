@@ -6,7 +6,8 @@
     "description": "Dresden Tower",
     "schedule_minstation": [
       "EDMM"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDDE_TWR",
@@ -15,16 +16,19 @@
     "description": "Erfurt Tower",
     "schedule_minstation": [
       "EDMM"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDDM_N_TWR",
     "frequency": "118.705",
     "abbreviation": "DMTN",
     "description": "M\u00fcnchen Tower (North)",
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDM_S_TWR",
@@ -33,13 +37,15 @@
     "description": "M\u00fcnchen Tower (South)",
     "schedule_minstation": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDN_TWR",
     "frequency": "118.305",
     "abbreviation": "DNT",
     "description": "N\u00fcrnberg Tower",
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDMM"
     ]
@@ -69,7 +75,8 @@
     "description": "Memmingen Tower",
     "schedule_minstation": [
       "EDMM"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDMA_TWR",
@@ -78,7 +85,8 @@
     "description": "Augsburg Tower",
     "schedule_minstation": [
       "EDMM"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDMO_TWR",
@@ -87,7 +95,8 @@
     "description": "Oberpfaffenhofen Tower",
     "schedule_minstation": [
       "EDMM"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDNY_TWR",
@@ -105,6 +114,7 @@
     "description": "Hof Tower",
     "schedule_minstation": [
       "EDMM"
-    ]
+    ],
+    "s1_twr": true
   }
 ]

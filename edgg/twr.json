@@ -9,7 +9,8 @@
     ],
     "schedule_groups": [
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDF_W_TWR",
@@ -21,17 +22,20 @@
     ],
     "schedule_groups": [
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDF_C_TWR",
     "frequency": "118.780",
     "abbreviation": "DFTC",
     "description": "Frankfurt Tower (Center)",
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDF_N_TWR",
@@ -43,7 +47,8 @@
     ],
     "schedule_groups": [
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDG_TWR",
@@ -53,27 +58,32 @@
     "schedule_groups": [
       "EDLL",
       "EDGG"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDDK_TWR",
     "frequency": "124.980",
     "abbreviation": "DKT",
     "description": "K\u00f6ln/Bonn Tower",
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDGG",
       "EDLL"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDL_TWR",
     "frequency": "118.305",
     "abbreviation": "DLT",
     "description": "D\u00fcsseldorf Tower",
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDGG",
       "EDLL"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDR_TWR",
@@ -83,13 +93,15 @@
     "schedule_groups": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDDS_TWR",
     "frequency": "118.805",
     "abbreviation": "DST",
     "description": "Stuttgart Tower",
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDGG",
       "EDFF"
@@ -113,7 +125,8 @@
     "schedule_groups": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDFM_TWR",
@@ -123,7 +136,8 @@
     "schedule_groups": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDLN_TWR",
@@ -143,7 +157,8 @@
     "schedule_groups": [
       "EDLL",
       "EDGG"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDLV_TWR",
@@ -160,20 +175,24 @@
     "frequency": "134.180",
     "abbreviation": "LWT",
     "description": "Dortmund Tower",
+    "gcap_training_airport": true,
     "schedule_groups": [
       "EDLL",
       "EDGG"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDSB_TWR",
     "frequency": "134.105",
     "abbreviation": "SBT",
     "description": "Baden Tower",
+    "gcap_training_airport": true,
     "schedule_groups": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDTL_TWR",

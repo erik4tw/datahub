@@ -13,9 +13,11 @@
     "frequency": "128.030",
     "abbreviation": "DMNH",
     "description": "M\u00fcnchen Arrival (North High)",
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDM_SH_APP",
@@ -24,7 +26,8 @@
     "description": "M\u00fcnchen Arrival (South High)",
     "schedule_minstation": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDM_ND_APP",
@@ -33,7 +36,8 @@
     "description": "M\u00fcnchen Director (North Director)",
     "schedule_minstation": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDM_NL_APP",
@@ -42,7 +46,8 @@
     "description": "M\u00fcnchen Radar (North Low)",
     "schedule_groups": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDM_SL_APP",
@@ -51,7 +56,8 @@
     "description": "M\u00fcnchen Radar (South Low)",
     "schedule_groups": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDM_SD_APP",
@@ -60,13 +66,15 @@
     "description": "M\u00fcnchen Director (South Director)",
     "schedule_groups": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDN_FRK_APP",
     "frequency": "129.525",
     "abbreviation": "FRK",
     "description": "M\u00fcnchen Radar (Franken)",
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDMM"
     ]

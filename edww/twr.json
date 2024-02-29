@@ -6,16 +6,19 @@
     "description": "Heringsdorf Tower",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDDB_S_TWR",
     "frequency": "118.805",
     "abbreviation": "DBTS",
     "description": "Berlin Tower (Sued)",
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDB_N_TWR",
@@ -24,16 +27,19 @@
     "description": "Berlin Tower (Nord)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDH_TWR",
     "frequency": "126.855",
     "abbreviation": "DHT",
     "description": "Hamburg Tower",
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDH_VFR_TWR",
@@ -42,13 +48,15 @@
     "description": "Hamburg VFR Tower",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDV_TWR",
     "frequency": "120.180",
     "abbreviation": "DVT",
     "description": "Hannover Tower",
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDWW"
     ]
@@ -58,9 +66,11 @@
     "frequency": "120.330",
     "abbreviation": "DWT",
     "description": "Bremen Tower",
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDWW"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDHL_TWR",
@@ -69,7 +79,8 @@
     "description": "Luebeck Tower",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDHI_TWR",
@@ -87,7 +98,8 @@
     "description": "Braunschweig Tower",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDVK_TWR",
@@ -96,7 +108,8 @@
     "description": "Kassel Tower",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDXW_TWR",
@@ -105,6 +118,7 @@
     "description": "Sylt Tower",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "s1_twr": true
   }
 ]
