@@ -4,10 +4,10 @@
     "frequency": "119.905",
     "abbreviation": "DFTS",
     "description": "Frankfurt Tower (South)",
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDFF"
     ],
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDGG"
     ],
     "gcap_status": "1"
@@ -17,10 +17,10 @@
     "frequency": "124.855",
     "abbreviation": "DFTW",
     "description": "Frankfurt Tower (West)",
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDFF"
     ],
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDGG"
     ],
     "gcap_status": "1"
@@ -31,7 +31,7 @@
     "abbreviation": "DFTC",
     "description": "Frankfurt Tower (Center)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDFF",
       "EDGG"
     ],
@@ -42,10 +42,10 @@
     "frequency": "136.500",
     "abbreviation": "DFTN",
     "description": "Frankfurt Tower (North)",
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDFF"
     ],
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDGG"
     ],
     "gcap_status": "1"
@@ -55,7 +55,7 @@
     "frequency": "129.805",
     "abbreviation": "DGT",
     "description": "M\u00fcnster Tower",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDLL",
       "EDGG"
     ],
@@ -67,7 +67,7 @@
     "abbreviation": "DKT",
     "description": "K\u00f6ln/Bonn Tower",
     "gcap_training_airport": true,
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDGG",
       "EDLL"
     ],
@@ -79,7 +79,7 @@
     "abbreviation": "DLT",
     "description": "D\u00fcsseldorf Tower",
     "gcap_training_airport": true,
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDGG",
       "EDLL"
     ],
@@ -90,7 +90,7 @@
     "frequency": "118.355",
     "abbreviation": "DRT",
     "description": "Saarbr\u00fccken Tower",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDFF",
       "EDGG"
     ],
@@ -102,7 +102,7 @@
     "abbreviation": "DST",
     "description": "Stuttgart Tower",
     "gcap_training_airport": true,
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDGG",
       "EDFF"
     ]
@@ -112,7 +112,7 @@
     "frequency": "119.055",
     "abbreviation": "DSTV",
     "description": "Stuttgart Tower (VFR)",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDFF",
       "EDGG"
     ]
@@ -122,7 +122,7 @@
     "frequency": "119.655",
     "abbreviation": "FHT",
     "description": "Hahn Tower",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDFF",
       "EDGG"
     ],
@@ -133,7 +133,7 @@
     "frequency": "129.780",
     "abbreviation": "FMT",
     "description": "Mannheim Tower",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDFF",
       "EDGG"
     ],
@@ -144,7 +144,7 @@
     "frequency": "120.455",
     "abbreviation": "LNT",
     "description": "M\u00f6nchengladbach Tower",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDLL",
       "EDGG"
     ]
@@ -154,7 +154,7 @@
     "frequency": "133.380",
     "abbreviation": "LPT",
     "description": "Paderborn Tower",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDLL",
       "EDGG"
     ],
@@ -165,7 +165,7 @@
     "frequency": "129.405",
     "abbreviation": "LVT",
     "description": "Niederrhein Tower",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDLL",
       "EDGG"
     ]
@@ -176,7 +176,7 @@
     "abbreviation": "LWT",
     "description": "Dortmund Tower",
     "gcap_training_airport": true,
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDLL",
       "EDGG"
     ],
@@ -188,7 +188,7 @@
     "abbreviation": "SBT",
     "description": "Baden Tower",
     "gcap_training_airport": true,
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDFF",
       "EDGG"
     ],
@@ -199,7 +199,7 @@
     "frequency": "125.180",
     "abbreviation": "TLT",
     "description": "Lahr Tower",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDFF",
       "EDGG"
     ]

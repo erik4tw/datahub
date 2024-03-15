@@ -4,7 +4,7 @@
     "frequency": "122.035",
     "abbreviation": "DFC",
     "description": "Frankfurt Delivery Coordinator",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDGG",
       "EDFF"
     ],
@@ -15,7 +15,7 @@
     "frequency": "121.855",
     "abbreviation": "DKC",
     "description": "K\u00f6ln/Bonn Delivery Coordinator",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDGG",
       "EDLL"
     ]
@@ -25,7 +25,7 @@
     "frequency": "121.780",
     "abbreviation": "DLC",
     "description": "D\u00fcsseldorf Delivery Coordinator",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDGG",
       "EDLL"
     ],
@@ -36,7 +36,7 @@
     "frequency": "121.915",
     "abbreviation": "DSC",
     "description": "Stuttgart Delivery Coordinator",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDGG",
       "EDFF"
     ]

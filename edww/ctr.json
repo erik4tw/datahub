@@ -4,7 +4,7 @@
     "frequency": "133.725",
     "abbreviation": "WC",
     "description": "Bremen Radar (Complete)",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ],
     "relevant_airports": [
@@ -21,7 +21,7 @@
     "abbreviation": "ALR",
     "description": "Bremen Radar (Aller)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDWW"
     ],
     "relevant_airports": [
@@ -35,7 +35,7 @@
     "frequency": "123.225",
     "abbreviation": "BOR",
     "description": "Bremen Radar (Boerde)",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ],
     "relevant_airports": [
@@ -49,7 +49,7 @@
     "abbreviation": "DST",
     "description": "Bremen Radar (Deister)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDWW"
     ],
     "relevant_airports": [
@@ -62,7 +62,7 @@
     "frequency": "124.075",
     "abbreviation": "EIDE",
     "description": "Bremen Radar (Eider East)",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ],
     "relevant_airports": [
@@ -75,7 +75,7 @@
     "frequency": "136.450",
     "abbreviation": "FLG",
     "description": "Bremen Radar (Flaeming)",
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDWW"
     ],
     "relevant_airports": [
@@ -88,7 +88,7 @@
     "frequency": "125.855",
     "abbreviation": "HEI",
     "description": "Bremen Radar (Heide)",
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDWW"
     ],
     "relevant_airports": [
@@ -100,7 +100,7 @@
     "frequency": "136.050",
     "abbreviation": "MAR",
     "description": "Bremen Radar (Mark)",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ],
     "relevant_airports": [
@@ -114,7 +114,7 @@
     "abbreviation": "MRZ",
     "description": "Bremen Radar (Mueritz)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDWW"
     ],
     "relevant_airports": [
@@ -127,7 +127,7 @@
     "frequency": "126.655",
     "abbreviation": "HRZ",
     "description": "Bremen Radar (Harz)",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ],
     "relevant_airports": [
@@ -139,7 +139,7 @@
     "frequency": "125.025",
     "abbreviation": "EMS",
     "description": "Bremen Radar (Ems)",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ],
     "relevant_airports": [
@@ -152,7 +152,7 @@
     "frequency": "120.225",
     "abbreviation": "EIDW",
     "description": "Bremen Radar (Eider West)",
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDWW"
     ],
     "relevant_airports": [

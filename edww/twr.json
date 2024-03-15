@@ -4,7 +4,7 @@
     "frequency": "132.830",
     "abbreviation": "AHT",
     "description": "Heringsdorf Tower",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ],
     "s1_twr": true
@@ -15,7 +15,7 @@
     "abbreviation": "DBTS",
     "description": "Berlin Tower (Sued)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDWW"
     ],
     "gcap_status": "1"
@@ -25,7 +25,7 @@
     "frequency": "120.030",
     "abbreviation": "DBTN",
     "description": "Berlin Tower (Nord)",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ],
     "gcap_status": "1"
@@ -36,7 +36,7 @@
     "abbreviation": "DHT",
     "description": "Hamburg Tower",
     "gcap_training_airport": true,
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDWW"
     ],
     "gcap_status": "1"
@@ -46,7 +46,7 @@
     "frequency": "121.280",
     "abbreviation": "DHR",
     "description": "Hamburg VFR Tower",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ],
     "gcap_status": "1"
@@ -57,7 +57,7 @@
     "abbreviation": "DVT",
     "description": "Hannover Tower",
     "gcap_training_airport": true,
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDWW"
     ]
   },
@@ -67,7 +67,7 @@
     "abbreviation": "DWT",
     "description": "Bremen Tower",
     "gcap_training_airport": true,
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDWW"
     ],
     "s1_twr": true
@@ -77,7 +77,7 @@
     "frequency": "128.705",
     "abbreviation": "HLT",
     "description": "Luebeck Tower",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ],
     "s1_twr": true
@@ -87,7 +87,7 @@
     "frequency": "123.255",
     "abbreviation": "HIT",
     "description": "Finkenwerder Tower",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ]
   },
@@ -96,7 +96,7 @@
     "frequency": "120.055",
     "abbreviation": "VET",
     "description": "Braunschweig Tower",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ],
     "s1_twr": true
@@ -106,7 +106,7 @@
     "frequency": "118.105",
     "abbreviation": "VKT",
     "description": "Kassel Tower",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ],
     "s1_twr": true
@@ -116,7 +116,7 @@
     "frequency": "119.750",
     "abbreviation": "XWT",
     "description": "Sylt Tower",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ],
     "s1_twr": true

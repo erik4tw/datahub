@@ -4,10 +4,10 @@
     "frequency": "121.955",
     "abbreviation": "DFGE",
     "description": "Frankfurt Apron (East)",
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDFF"
     ],
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDGG"
     ],
     "gcap_status": "1"
@@ -17,7 +17,7 @@
     "frequency": "121.805",
     "abbreviation": "DFG",
     "description": "Frankfurt Ground",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDFF",
       "EDGG"
     ],
@@ -28,7 +28,7 @@
     "frequency": "121.855",
     "abbreviation": "DFGC",
     "description": "Frankfurt Apron (Center)",
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDFF",
       "EDGG"
     ],
@@ -39,10 +39,10 @@
     "frequency": "121.755",
     "abbreviation": "DFGW",
     "description": "Frankfurt Apron (West)",
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDFF"
     ],
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDGG"
     ],
     "gcap_status": "1"
@@ -52,7 +52,7 @@
     "frequency": "121.985",
     "abbreviation": "DFGI",
     "description": "Frankfurt Deicing",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDFF",
       "EDGG"
     ],
@@ -63,7 +63,7 @@
     "frequency": "121.655",
     "abbreviation": "DFGS",
     "description": "Frankfurt Apron (South)",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDFF",
       "EDGG"
     ],
@@ -74,7 +74,7 @@
     "frequency": "121.880",
     "abbreviation": "DGG",
     "description": "M\u00fcnster Ground",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDLL",
       "EDGG"
     ]
@@ -84,7 +84,7 @@
     "frequency": "121.955",
     "abbreviation": "DKGP",
     "description": "K\u00f6ln/Bonn Apron",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDLL",
       "EDGG"
     ]
@@ -94,7 +94,7 @@
     "frequency": "121.730",
     "abbreviation": "DKG",
     "description": "K\u00f6ln/Bonn Ground",
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDLL",
       "EDGG"
     ]
@@ -104,7 +104,7 @@
     "frequency": "121.605",
     "abbreviation": "DLGE",
     "description": "D\u00fcsseldorf Ground (East)",
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDLL",
       "EDGG"
     ],
@@ -115,10 +115,10 @@
     "frequency": "121.905",
     "abbreviation": "DLGW",
     "description": "D\u00fcsseldorf Ground (West)",
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDLL"
     ],
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDGG"
     ],
     "gcap_status": "1"
@@ -128,7 +128,7 @@
     "frequency": "118.555",
     "abbreviation": "DRG",
     "description": "Saarbr\u00fccken Ground",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDFF",
       "EDGG"
     ]
@@ -138,7 +138,7 @@
     "frequency": "118.605",
     "abbreviation": "DSG",
     "description": "Stuttgart Ground",
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDFF",
       "EDGG"
     ]
@@ -148,7 +148,7 @@
     "frequency": "121.730",
     "abbreviation": "FEG",
     "description": "Egelsbach Apron",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDFF",
       "EDGG"
     ]
@@ -158,7 +158,7 @@
     "frequency": "121.980",
     "abbreviation": "FHG",
     "description": "Hahn Ground",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDFF",
       "EDGG"
     ]
@@ -168,7 +168,7 @@
     "frequency": "121.930",
     "abbreviation": "LNG",
     "description": "M\u00f6nchengladbach Ground",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDLL",
       "EDGG"
     ]
@@ -178,7 +178,7 @@
     "frequency": "121.930",
     "abbreviation": "LPG",
     "description": "Paderborn Ground",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDLL",
       "EDGG"
     ]
@@ -188,7 +188,7 @@
     "frequency": "121.830",
     "abbreviation": "LWG",
     "description": "Dortmund Ground",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDLL",
       "EDGG"
     ]
@@ -198,7 +198,7 @@
     "frequency": "121.830",
     "abbreviation": "SBG",
     "description": "Baden Ground",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDGG"
     ]
   }

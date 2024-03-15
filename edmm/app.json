@@ -4,7 +4,7 @@
     "frequency": "125.875",
     "abbreviation": "SAS",
     "description": "M\u00fcnchen Radar (Sachsen Low)",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDMM"
     ]
   },
@@ -14,7 +14,7 @@
     "abbreviation": "DMNH",
     "description": "M\u00fcnchen Arrival (North High)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDMM"
     ],
     "gcap_status": "1"
@@ -24,7 +24,7 @@
     "frequency": "120.780",
     "abbreviation": "DMSH",
     "description": "M\u00fcnchen Arrival (South High)",
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDMM"
     ],
     "gcap_status": "1"
@@ -34,7 +34,7 @@
     "frequency": "118.830",
     "abbreviation": "DMNAT",
     "description": "M\u00fcnchen Director (North Director)",
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDMM"
     ],
     "gcap_status": "1"
@@ -44,7 +44,7 @@
     "frequency": "123.905",
     "abbreviation": "DMNL",
     "description": "M\u00fcnchen Radar (North Low)",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDMM"
     ],
     "gcap_status": "1"
@@ -54,7 +54,7 @@
     "frequency": "127.955",
     "abbreviation": "DMSL",
     "description": "M\u00fcnchen Radar (South Low)",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDMM"
     ],
     "gcap_status": "1"
@@ -64,7 +64,7 @@
     "frequency": "132.305",
     "abbreviation": "DMSAT",
     "description": "M\u00fcnchen Director (South Director)",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDMM"
     ],
     "gcap_status": "1"
@@ -75,7 +75,7 @@
     "abbreviation": "FRK",
     "description": "M\u00fcnchen Radar (Franken)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDMM"
     ]
   },
@@ -84,7 +84,7 @@
     "frequency": "119.475",
     "abbreviation": "DND",
     "description": "N\u00fcrnberg Director",
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDMM"
     ]
   },
@@ -93,7 +93,7 @@
     "frequency": "126.175",
     "abbreviation": "TRS",
     "description": "M\u00fcnchen Radar (Th\u00fcringen Low South)",
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDMM"
     ]
   },
@@ -102,7 +102,7 @@
     "frequency": "120.840",
     "abbreviation": "DPND",
     "description": "Leipzig Director (North Director)",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDMM"
     ]
   },
@@ -111,7 +111,7 @@
     "frequency": "126.065",
     "abbreviation": "TRN",
     "description": "M\u00fcnchen Radar (Th\u00fcringen Low North)",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDMM"
     ]
   },
@@ -120,7 +120,7 @@
     "frequency": "129.765",
     "abbreviation": "DPSD",
     "description": "Leipzig Director (South Director)",
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDMM"
     ]
   },
@@ -129,7 +129,7 @@
     "frequency": "129.450",
     "abbreviation": "ILR",
     "description": "M\u00fcnchen Radar (Iller)",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDMM"
     ]
   },
@@ -138,7 +138,7 @@
     "frequency": "136.525",
     "abbreviation": "SWA",
     "description": "M\u00fcnchen Radar (Schwaben)",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDMM"
     ],
     "relevant_airports": [

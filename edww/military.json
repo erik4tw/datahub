@@ -4,7 +4,7 @@
     "frequency": "118.255",
     "abbreviation": "HCT",
     "description": "Celle Tower",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ]
   },
@@ -13,7 +13,7 @@
     "frequency": "118.525",
     "abbreviation": "HST",
     "description": "Fassberg Tower",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ]
   },
@@ -22,7 +22,7 @@
     "frequency": "129.855",
     "abbreviation": "MNR",
     "description": "Nordholz Radar",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ]
   },
@@ -31,7 +31,7 @@
     "frequency": "131.255",
     "abbreviation": "MNT",
     "description": "Nordholz Tower",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ]
   },
@@ -40,7 +40,7 @@
     "frequency": "122.700",
     "abbreviation": "NHR",
     "description": "Hohn Radar",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ]
   },
@@ -49,7 +49,7 @@
     "frequency": "125.600",
     "abbreviation": "NHP",
     "description": "Hohn Precision",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ]
   },
@@ -58,7 +58,7 @@
     "frequency": "122.100",
     "abbreviation": "NHT",
     "description": "Hohn Tower",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ]
   },
@@ -67,7 +67,7 @@
     "frequency": "121.955",
     "abbreviation": "NLA",
     "description": "Laage Apron",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ]
   },
@@ -76,7 +76,7 @@
     "frequency": "118.430",
     "abbreviation": "NLT",
     "description": "Laage Tower",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ]
   },
@@ -85,7 +85,7 @@
     "frequency": "123.300",
     "abbreviation": "NLR",
     "description": "Laage Radar",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ]
   },
@@ -94,7 +94,7 @@
     "frequency": "133.105",
     "abbreviation": "NLP",
     "description": "Laage Precision",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ]
   },
@@ -103,7 +103,7 @@
     "frequency": "123.300",
     "abbreviation": "NSR",
     "description": "Schleswig Radar",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ]
   },
@@ -112,7 +112,7 @@
     "frequency": "133.105",
     "abbreviation": "NSP",
     "description": "Schleswig Precision",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ]
   },
@@ -121,7 +121,7 @@
     "frequency": "135.155",
     "abbreviation": "NST",
     "description": "Schleswig Tower",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ]
   },
@@ -130,7 +130,7 @@
     "frequency": "123.600",
     "abbreviation": "NTR",
     "description": "Wittmund Radar",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ]
   },
@@ -139,7 +139,7 @@
     "frequency": "118.730",
     "abbreviation": "NTT",
     "description": "Wittmund Tower",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ]
   },
@@ -148,7 +148,7 @@
     "frequency": "132.055",
     "abbreviation": "NWT",
     "description": "Wunstorf Tower",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ]
   },
@@ -157,7 +157,7 @@
     "frequency": "130.505",
     "abbreviation": "SHT",
     "description": "Holzdorf Tower",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ]
   },
@@ -166,7 +166,7 @@
     "frequency": "129.855",
     "abbreviation": "SHR",
     "description": "Holzdorf Radar",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDWW"
     ]
   }

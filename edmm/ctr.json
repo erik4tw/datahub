@@ -14,7 +14,7 @@
     "frequency": "129.100",
     "abbreviation": "ALB",
     "description": "M\u00fcnchen Radar (Allersberg)",
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDMM"
     ],
     "relevant_airports": [
@@ -27,7 +27,7 @@
     "frequency": "133.615",
     "abbreviation": "BBG",
     "description": "M\u00fcnchen Radar (Bamberg)",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDMM"
     ],
     "relevant_airports": [
@@ -40,7 +40,7 @@
     "frequency": "129.555",
     "abbreviation": "EGG",
     "description": "M\u00fcnchen Radar (Eggenfelden)",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDMM"
     ],
     "relevant_airports": [
@@ -53,7 +53,7 @@
     "frequency": "133.550",
     "abbreviation": "FUE",
     "description": "M\u00fcnchen Radar (F\u00fcssen)",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDMM"
     ]
   },
@@ -62,7 +62,7 @@
     "frequency": "133.230",
     "abbreviation": "GER",
     "description": "M\u00fcnchen Radar (Gera)",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDMM"
     ],
     "relevant_airports": [
@@ -77,7 +77,7 @@
     "frequency": "118.235",
     "abbreviation": "HAL",
     "description": "M\u00fcnchen Radar (Halle)",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDMM"
     ],
     "relevant_airports": [
@@ -92,7 +92,7 @@
     "frequency": "124.960",
     "abbreviation": "MEI",
     "description": "M\u00fcnchen Radar (Meissen)",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDMM"
     ],
     "relevant_airports": [
@@ -107,7 +107,7 @@
     "frequency": "125.140",
     "abbreviation": "NDG",
     "description": "M\u00fcnchen Radar (N\u00f6rdlingen)",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDMM"
     ],
     "relevant_airports": [
@@ -120,7 +120,7 @@
     "frequency": "133.565",
     "abbreviation": "HOF",
     "description": "M\u00fcnchen Radar (Hof)",
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDMM"
     ],
     "relevant_airports": [
@@ -136,7 +136,7 @@
     "frequency": "132.555",
     "abbreviation": "RDG",
     "description": "M\u00fcnchen Radar (Roding)",
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDMM"
     ],
     "relevant_airports": [
@@ -150,7 +150,7 @@
     "frequency": "132.455",
     "abbreviation": "STA",
     "description": "M\u00fcnchen Radar (Starnberg)",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDMM"
     ]
   },
@@ -159,7 +159,7 @@
     "frequency": "133.680",
     "abbreviation": "TEG",
     "description": "M\u00fcnchen Radar (Tegernsee)",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDMM"
     ]
   },
@@ -168,7 +168,7 @@
     "frequency": "132.635",
     "abbreviation": "TRU",
     "description": "M\u00fcnchen Radar (Traun)",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDMM"
     ],
     "cpdlc_login": "EDMU"
@@ -178,7 +178,7 @@
     "frequency": "136.230",
     "abbreviation": "WLD",
     "description": "M\u00fcnchen Radar (Walda)",
-    "schedule_groups": [
+    "schedule_show_booked": [
       "EDMM"
     ]
   },
@@ -188,7 +188,7 @@
     "abbreviation": "ZUG",
     "description": "M\u00fcnchen Radar (Zugspitze)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
+    "schedule_show_always": [
       "EDMM"
     ],
     "relevant_airports": [

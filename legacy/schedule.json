@@ -1,7 +1,7 @@
 [
     {
         "name": "EDFF",
-        "schedule_minstation": [
+        "schedule_show_always": [
             "EDDF_C_GND",
             "EDDF_C_TWR",
             "EDDF_DEL",
@@ -25,7 +25,7 @@
             "EDUU_SLN_CTR",
             "EDYY_RHR_CTR"
         ],
-        "schedule_group": [
+        "schedule_show_booked": [
             "EDDF_CO_DEL",
             "EDDF_GND",
             "EDDF_ICE_GND",
@@ -68,7 +68,7 @@
     },
     {
         "name": "EDGG",
-        "schedule_minstation": [
+        "schedule_show_always": [
             "EDDF_C_GND",
             "EDDF_C_TWR",
             "EDDF_DEL",
@@ -98,7 +98,7 @@
             "EDUU_SLN_CTR",
             "EDYY_RHR_CTR"
         ],
-        "schedule_group": [
+        "schedule_show_booked": [
             "EDDF_CO_DEL",
             "EDDF_E_GND",
             "EDDF_GND",
@@ -166,7 +166,7 @@
     },
     {
         "name": "EDLL",
-        "schedule_minstation": [
+        "schedule_show_always": [
             "EDDG_HMM_APP",
             "EDDK_APP",
             "EDDK_DEL",
@@ -187,7 +187,7 @@
             "EDUU_SLN_CTR",
             "EDYY_RHR_CTR"
         ],
-        "schedule_group": [
+        "schedule_show_booked": [
             "EDDG_GND",
             "EDDG_TWR",
             "EDDK_CO_DEL",
@@ -211,7 +211,7 @@
     },
     {
         "name": "EDMM",
-        "schedule_minstation": [
+        "schedule_show_always": [
             "EDDC_TWR",
             "EDDE_TWR",
             "EDDM_1_GND",
@@ -241,7 +241,7 @@
             "EDNY_TWR",
             "EDQM_TWR"
         ],
-        "schedule_group": [
+        "schedule_show_booked": [
             "EDDC_A_GND",
             "EDDC_GND",
             "EDDC_SAS_APP",
@@ -289,7 +289,7 @@
     },
     {
         "name": "EDWW",
-        "schedule_minstation": [
+        "schedule_show_always": [
             "EDDB_A_GND",
             "EDDB_DEL",
             "EDDB_D_APP",
@@ -314,7 +314,7 @@
             "EDWW_M_CTR",
             "EDWW_W_CTR"
         ],
-        "schedule_group": [
+        "schedule_show_booked": [
             "EDAH_TWR",
             "EDDB_E_GND",
             "EDDB_F_APP",
@@ -348,6 +348,12 @@
             "EDWW_R_CTR",
             "EDWW_S_CTR",
             "EDXW_TWR",
+            "EDXX_FIS_CTR",
+            "EDXX_IDB_CTR",
+            "EDXX_IDH_CTR",
+            "EDXX_IDV_CTR",
+            "EDXX_ISW_CTR",
+            "EDXX_WW_CTR",
             "EDYY_CH_CTR",
             "EDYY_C_CTR",
             "EDYY_H_CTR",
@@ -379,7 +385,7 @@
     },
     {
         "name": "MIL",
-        "schedule_minstation": [
+        "schedule_show_always": [
             "ETAR_GND",
             "ETAR_TWR",
             "ETHC_TWR",
@@ -418,6 +424,6 @@
             "ETSL_TWR",
             "ETSN_TWR"
         ],
-        "schedule_group": []
+        "schedule_show_booked": []
     }
 ]
