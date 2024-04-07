@@ -7,7 +7,8 @@
     "schedule-groups": [
       "EDMM"
     ],
-    "cpdlc_login": "EDMM"
+    "cpdlc_login": "EDMM",
+    "gcap_status": "1"
   },
   {
     "logon": "EDMM_ALB_CTR",
@@ -143,7 +144,8 @@
       "EDDM",
       "EDDN"
     ],
-    "cpdlc_login": "EDMR"
+    "cpdlc_login": "EDMR",
+    "gcap_status": "1"
   },
   {
     "logon": "EDMM_STA_CTR",
