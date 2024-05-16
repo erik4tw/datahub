@@ -1430,17 +1430,17 @@
     "logon": "EDFE_GND",
     "frequency": "121.730",
     "abbreviation": "FEG",
-    "description": "Egelsbach Apron",
-    "schedule_show_booked": [
-      "EDFF",
-      "EDGG"
-    ]
+    "description": "Egelsbach Apron"
   },
   {
     "logon": "EDFE_I_TWR",
     "frequency": "118.405",
     "abbreviation": "FEI",
     "description": "Egelsbach Radio",
+    "schedule_show_booked": [
+      "EDFF",
+      "EDGG"
+    ],
     "gcap_status": "AFIS",
     "s1_twr": true
   },
@@ -1566,6 +1566,11 @@
     "frequency": "135.165",
     "abbreviation": "FQI",
     "description": "Allendorf Radio",
+    "schedule_show_booked": [
+      "EDFF",
+      "EDLL",
+      "EDGG"
+    ],
     "gcap_status": "AFIS",
     "s1_twr": true
   },
@@ -1884,6 +1889,14 @@
     "s1_twr": true
   },
   {
+    "logon": "EDGJ_I_TWR",
+    "frequency": "119.990",
+    "abbreviation": "GJI",
+    "description": "Ochsenfurt Radio",
+    "gcap_status": "AFIS",
+    "s1_twr": true
+  },
+  {
     "logon": "EDGK_I_TWR",
     "frequency": "125.815",
     "abbreviation": "GKI",
@@ -1928,6 +1941,11 @@
     "frequency": "120.380",
     "abbreviation": "GSI",
     "description": "Siegerland Information",
+    "schedule_show_booked": [
+      "EDFF",
+      "EDLL",
+      "EDGG"
+    ],
     "gcap_status": "AFIS",
     "s1_twr": true
   },
@@ -2858,6 +2876,10 @@
     "frequency": "125.505",
     "abbreviation": "QGI",
     "description": "Giebelstadt Information",
+    "schedule_show_booked": [
+      "EDFF",
+      "EDGG"
+    ],
     "gcap_status": "AFIS",
     "s1_twr": true
   },
@@ -3100,6 +3122,10 @@
     "frequency": "118.080",
     "abbreviation": "RYI",
     "description": "Speyer Radio",
+    "schedule_show_booked": [
+      "EDFF",
+      "EDGG"
+    ],
     "gcap_status": "AFIS",
     "s1_twr": true
   },
@@ -3108,6 +3134,10 @@
     "frequency": "123.830",
     "abbreviation": "RZI",
     "description": "Zweibr\u00fccken Information",
+    "schedule_show_booked": [
+      "EDFF",
+      "EDGG"
+    ],
     "gcap_status": "AFIS",
     "s1_twr": true
   },
@@ -3145,6 +3175,14 @@
     "frequency": "128.755",
     "abbreviation": "SDI",
     "description": "Egelsee Radio",
+    "gcap_status": "AFIS",
+    "s1_twr": true
+  },
+  {
+    "logon": "EDSF_I_TWR",
+    "frequency": "125.815",
+    "abbreviation": "SFI",
+    "description": "H\u00fctten-Hotzenwald Radio",
     "gcap_status": "AFIS",
     "s1_twr": true
   },
@@ -3280,7 +3318,7 @@
     "logon": "EDTD_I_TWR",
     "frequency": "126.690",
     "abbreviation": "TDI",
-    "description": "Donaueschingen Radio",
+    "description": "Donaueschingen Information",
     "gcap_status": "AFIS",
     "s1_twr": true
   },
@@ -3420,6 +3458,10 @@
     "frequency": "129.230",
     "abbreviation": "TYI",
     "description": "Schw\u00e4bisch Hall Information",
+    "schedule_show_booked": [
+      "EDFF",
+      "EDGG"
+    ],
     "gcap_status": "AFIS",
     "s1_twr": true
   },
@@ -4262,6 +4304,16 @@
     "cpdlc_login": "EDYS"
   },
   {
+    "logon": "ETAD_APP",
+    "frequency": "129.475",
+    "abbreviation": "TADA",
+    "description": "Spangdahlem GCA",
+    "schedule_show_booked": [
+      "EDFF",
+      "EDGG"
+    ]
+  },
+  {
     "logon": "ETAD_DEL",
     "frequency": "120.905",
     "abbreviation": "TADC",
@@ -4277,7 +4329,21 @@
     "logon": "ETAD_TWR",
     "frequency": "122.200",
     "abbreviation": "TADT",
-    "description": "Spangdahlem Tower"
+    "description": "Spangdahlem Tower",
+    "schedule_show_booked": [
+      "EDFF",
+      "EDGG"
+    ]
+  },
+  {
+    "logon": "ETAR_APP",
+    "frequency": "124.280",
+    "abbreviation": "TARA",
+    "description": "Ramstein GCA",
+    "schedule_show_booked": [
+      "EDFF",
+      "EDGG"
+    ]
   },
   {
     "logon": "ETAR_GND",
@@ -4289,7 +4355,11 @@
     "logon": "ETAR_TWR",
     "frequency": "133.205",
     "abbreviation": "TART",
-    "description": "Ramstein Tower"
+    "description": "Ramstein Tower",
+    "schedule_show_booked": [
+      "EDFF",
+      "EDGG"
+    ]
   },
   {
     "logon": "ETEB_GND",
@@ -4313,6 +4383,16 @@
     ]
   },
   {
+    "logon": "ETHF_APP",
+    "frequency": "120.865",
+    "abbreviation": "THFA",
+    "description": "Fritzlar Radar",
+    "schedule_show_booked": [
+      "EDFF",
+      "EDGG"
+    ]
+  },
+  {
     "logon": "ETHF_GND",
     "frequency": "131.450",
     "abbreviation": "THFG",
@@ -4322,7 +4402,11 @@
     "logon": "ETHF_TWR",
     "frequency": "128.830",
     "abbreviation": "THFT",
-    "description": "Fritzlar Tower"
+    "description": "Fritzlar Tower",
+    "schedule_show_booked": [
+      "EDFF",
+      "EDGG"
+    ]
   },
   {
     "logon": "ETHL_TWR",
@@ -4337,13 +4421,21 @@
     "logon": "ETHN_APP",
     "frequency": "127.190",
     "abbreviation": "THNA",
-    "description": "Stetten Radar"
+    "description": "Stetten Radar",
+    "schedule_show_booked": [
+      "EDFF",
+      "EDGG"
+    ]
   },
   {
     "logon": "ETHN_TWR",
     "frequency": "119.780",
     "abbreviation": "THNT",
-    "description": "Stetten Tower"
+    "description": "Stetten Tower",
+    "schedule_show_booked": [
+      "EDFF",
+      "EDGG"
+    ]
   },
   {
     "logon": "ETHS_TWR",
@@ -4405,13 +4497,21 @@
     "logon": "ETNG_APP",
     "frequency": "123.730",
     "abbreviation": "TNGA",
-    "description": "Frisbee Radar"
+    "description": "Frisbee Radar",
+    "schedule_show_booked": [
+      "EDLL",
+      "EDGG"
+    ]
   },
   {
     "logon": "ETNG_TWR",
     "frequency": "120.055",
     "abbreviation": "TNGT",
-    "description": "Frisbee Tower"
+    "description": "Frisbee Tower",
+    "schedule_show_booked": [
+      "EDLL",
+      "EDGG"
+    ]
   },
   {
     "logon": "ETNH_APP",
@@ -4480,13 +4580,21 @@
     "logon": "ETNN_APP",
     "frequency": "129.055",
     "abbreviation": "TNNA",
-    "description": "N\u00f6rvenich Radar"
+    "description": "N\u00f6rvenich Radar",
+    "schedule_show_booked": [
+      "EDLL",
+      "EDGG"
+    ]
   },
   {
     "logon": "ETNN_TWR",
     "frequency": "136.205",
     "abbreviation": "TNNT",
-    "description": "N\u00f6rvenich Tower"
+    "description": "N\u00f6rvenich Tower",
+    "schedule_show_booked": [
+      "EDLL",
+      "EDGG"
+    ]
   },
   {
     "logon": "ETNS_APP",
@@ -4552,13 +4660,31 @@
     "logon": "ETOU_TWR",
     "frequency": "122.100",
     "abbreviation": "TOUT",
-    "description": "Wiesbaden Tower"
+    "description": "Wiesbaden Tower",
+    "schedule_show_booked": [
+      "EDFF",
+      "EDGG"
+    ]
+  },
+  {
+    "logon": "ETSB_APP",
+    "frequency": "130.155",
+    "abbreviation": "TSBA",
+    "description": "B\u00fcchel Radarr",
+    "schedule_show_booked": [
+      "EDFF",
+      "EDGG"
+    ]
   },
   {
     "logon": "ETSB_TWR",
     "frequency": "131.460",
     "abbreviation": "TSBT",
-    "description": "B\u00fcchel Tower"
+    "description": "B\u00fcchel Tower",
+    "schedule_show_booked": [
+      "EDFF",
+      "EDGG"
+    ]
   },
   {
     "logon": "ETSH_APP",
