@@ -8,7 +8,8 @@
       "EDFF",
       "EDGG"
     ],
-    "cpdlc_login": "EDGB"
+    "cpdlc_login": "EDGB",
+    "airspace_groups": ["DKB"]
   },
   {
     "logon": "EDGG_DKB_CTR",
@@ -24,7 +25,8 @@
       "EDDF",
       "EDDS"
     ],
-    "cpdlc_login": "EDGD"
+    "cpdlc_login": "EDGD",
+    "airspace_groups": ["DKB"]
   },
   {
     "logon": "EDGG_GED_CTR",
@@ -34,7 +36,8 @@
     "schedule_show_booked": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "airspace_groups": ["GIN"]
   },
   {
     "logon": "EDGG_GIN_CTR",
@@ -52,7 +55,8 @@
     "relevant_airports": [
       "EDDF"
     ],
-    "cpdlc_login": "EDGG"
+    "cpdlc_login": "EDGG",
+    "airspace_groups": ["GIN"]
   },
   {
     "logon": "EDGG_HAB_CTR",
@@ -62,7 +66,8 @@
     "schedule_show_booked": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "airspace_groups": ["DKB"]
   },
   {
     "logon": "EDGG_HEF_CTR",
@@ -72,7 +77,8 @@
     "schedule_show_booked": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "airspace_groups": ["GIN"]
   },
   {
     "logon": "EDGG_KIR_CTR",
@@ -82,7 +88,8 @@
     "schedule_show_booked": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "airspace_groups": ["GIN"]
   },
   {
     "logon": "EDGG_KNG_CTR",
@@ -92,7 +99,8 @@
     "schedule_show_booked": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "airspace_groups": ["DKB"]
   },
   {
     "logon": "EDGG_KTG_CTR",
@@ -109,7 +117,8 @@
       "EDDS"
     ],
     "cpdlc_login": "EDGK",
-    "gcap_status": "1"
+    "gcap_status": "1",
+    "airspace_groups": ["DKB"]
   },
   {
     "logon": "EDGG_LBU_CTR",
@@ -119,7 +128,8 @@
     "schedule_show_booked": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "airspace_groups": ["DKB"]
   },
   {
     "logon": "EDGG_MAN_CTR",
@@ -129,7 +139,8 @@
     "schedule_show_booked": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "airspace_groups": ["DKB"]
   },
   {
     "logon": "EDGG_NKH_CTR",
@@ -139,7 +150,8 @@
     "schedule_show_booked": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "airspace_groups": ["DKB"]
   },
   {
     "logon": "EDGG_PAH_CTR",
@@ -155,7 +167,8 @@
       "EDDL",
       "EDDK"
     ],
-    "cpdlc_login": "EDGP"
+    "cpdlc_login": "EDGP",
+    "airspace_groups": ["PADH"]
   },
   {
     "logon": "EDGG_PSA_CTR",
@@ -165,7 +178,8 @@
     "schedule_show_booked": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "airspace_groups": ["DKB"]
   },
   {
     "logon": "EDGG_RUD_CTR",
@@ -177,7 +191,8 @@
       "EDGG",
       "EDLL"
     ],
-    "cpdlc_login": "EDGR"
+    "cpdlc_login": "EDGR",
+    "airspace_groups": ["GIN"]
   },
   {
     "logon": "EDGG_SIG_CTR",
@@ -188,7 +203,8 @@
       "EDFF",
       "EDGG",
       "EDLL"
-    ]
+    ],
+    "airspace_groups": ["GIN"]
   },
   {
     "logon": "EDGG_TAU_CTR",
@@ -199,6 +215,7 @@
       "EDFF",
       "EDGG",
       "EDLL"
-    ]
+    ],
+    "airspace_groups": ["GIN"]
   }
 ]
