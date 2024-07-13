@@ -60,7 +60,10 @@
       "EDGG"
     ],
     "cpdlc_login": "EDYM",
-    "airspace_groups": ["DST", "PADH"]
+    "airspace_groups": [
+      "DST",
+      "PADH"
+    ]
   },
   {
     "logon": "EDYY_RHR_CTR",
@@ -73,7 +76,9 @@
       "EDFF"
     ],
     "cpdlc_login": "EDYR",
-    "airspace_groups": ["PADH"]
+    "airspace_groups": [
+      "PADH"
+    ]
   },
   {
     "logon": "EDYY_S_CTR",
