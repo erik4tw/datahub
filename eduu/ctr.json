@@ -9,7 +9,9 @@
       "EDGG"
     ],
     "cpdlc_login": "EDUF",
-    "airspace_groups": ["GIN"]
+    "airspace_groups": [
+      "GIN"
+    ]
   },
   {
     "logon": "EDUU_FUL_CTR",
@@ -22,7 +24,9 @@
       "EDFF"
     ],
     "cpdlc_login": "EDUU",
-    "airspace_groups": ["GIN"]
+    "airspace_groups": [
+      "GIN"
+    ]
   },
   {
     "logon": "EDUU_NTM_CTR",
@@ -34,7 +38,9 @@
       "EDGG"
     ],
     "cpdlc_login": "EDUN",
-    "airspace_groups": ["GIN"]
+    "airspace_groups": [
+      "GIN"
+    ]
   },
   {
     "logon": "EDUU_SLN_CTR",
@@ -47,7 +53,9 @@
       "EDFF"
     ],
     "cpdlc_login": "EDUS",
-    "airspace_groups": ["DKB"]
+    "airspace_groups": [
+      "DKB"
+    ]
   },
   {
     "logon": "EDUU_TGO_CTR",
@@ -59,7 +67,9 @@
       "EDGG"
     ],
     "cpdlc_login": "EDUT",
-    "airspace_groups": ["DKB"]
+    "airspace_groups": [
+      "DKB"
+    ]
   },
   {
     "logon": "EDUU_WUR_CTR",
@@ -71,7 +81,9 @@
       "EDGG"
     ],
     "cpdlc_login": "EDUW",
-    "airspace_groups": ["DKB"]
+    "airspace_groups": [
+      "DKB"
+    ]
   },
   {
     "logon": "EDUU_H_CTR",
