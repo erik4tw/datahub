@@ -21,7 +21,10 @@
     "relevant_airports": [
       "EDDM"
     ],
-    "cpdlc_login": "EDML"
+    "cpdlc_login": "EDML",
+    "airspace_groups": [
+      "ALB"
+    ]
   },
   {
     "logon": "EDMM_BBG_CTR",
@@ -34,7 +37,10 @@
     "relevant_airports": [
       "EDDN"
     ],
-    "cpdlc_login": "EDMB"
+    "cpdlc_login": "EDMB",
+    "airspace_groups": [
+      "HOF"
+    ]
   },
   {
     "logon": "EDMM_EGG_CTR",
@@ -47,7 +53,10 @@
     "relevant_airports": [
       "EDDM"
     ],
-    "cpdlc_login": "EDME"
+    "cpdlc_login": "EDME",
+    "airspace_groups": [
+      "ALB"
+    ]
   },
   {
     "logon": "EDMM_FUE_CTR",
@@ -56,6 +65,9 @@
     "description": "M\u00fcnchen Radar (F\u00fcssen)",
     "schedule_show_booked": [
       "EDMM"
+    ],
+    "airspace_groups": [
+      "TRU"
     ]
   },
   {
@@ -71,7 +83,10 @@
       "EDDC",
       "EDDE"
     ],
-    "cpdlc_login": "EDMG"
+    "cpdlc_login": "EDMG",
+    "airspace_groups": [
+      "HOF"
+    ]
   },
   {
     "logon": "EDMM_HAL_CTR",
@@ -86,7 +101,10 @@
       "EDDC",
       "EDDE"
     ],
-    "cpdlc_login": "EDMH"
+    "cpdlc_login": "EDMH",
+    "airspace_groups": [
+      "HOF"
+    ]
   },
   {
     "logon": "EDMM_MEI_CTR",
@@ -101,7 +119,10 @@
       "EDDC",
       "EDDE"
     ],
-    "cpdlc_login": "EDMS"
+    "cpdlc_login": "EDMS",
+    "airspace_groups": [
+      "HOF"
+    ]
   },
   {
     "logon": "EDMM_NDG_CTR",
@@ -114,7 +135,10 @@
     "relevant_airports": [
       "EDDM"
     ],
-    "cpdlc_login": "EDMN"
+    "cpdlc_login": "EDMN",
+    "airspace_groups": [
+      "TRU"
+    ]
   },
   {
     "logon": "EDMM_HOF_CTR",
@@ -145,7 +169,10 @@
       "EDDN"
     ],
     "cpdlc_login": "EDMR",
-    "gcap_status": "1"
+    "gcap_status": "1",
+    "airspace_groups": [
+      "ALB"
+    ]
   },
   {
     "logon": "EDMM_STA_CTR",
@@ -154,6 +181,9 @@
     "description": "M\u00fcnchen Radar (Starnberg)",
     "schedule_show_booked": [
       "EDMM"
+    ],
+    "airspace_groups": [
+      "TRU"
     ]
   },
   {
@@ -163,6 +193,9 @@
     "description": "M\u00fcnchen Radar (Tegernsee)",
     "schedule_show_booked": [
       "EDMM"
+    ],
+    "airspace_groups": [
+      "TRU"
     ]
   },
   {
@@ -173,7 +206,10 @@
     "schedule_show_booked": [
       "EDMM"
     ],
-    "cpdlc_login": "EDMU"
+    "cpdlc_login": "EDMU",
+    "airspace_groups": [
+      "TRU"
+    ]
   },
   {
     "logon": "EDMM_WLD_CTR",
@@ -182,6 +218,9 @@
     "description": "M\u00fcnchen Radar (Walda)",
     "schedule_show_booked": [
       "EDMM"
+    ],
+    "airspace_groups": [
+      "TRU"
     ]
   },
   {
@@ -196,6 +235,9 @@
     "relevant_airports": [
       "EDDM"
     ],
-    "cpdlc_login": "EDMZ"
+    "cpdlc_login": "EDMZ",
+    "airspace_groups": [
+      "TRU"
+    ]
   }
 ]

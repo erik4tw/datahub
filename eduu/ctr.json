@@ -132,7 +132,10 @@
     "schedule_show_booked": [
       "EDMM"
     ],
-    "cpdlc_login": "EDUA"
+    "cpdlc_login": "EDUA",
+    "airspace_groups": [
+      "HOF"
+    ]
   },
   {
     "logon": "EDUU_CHI_CTR",
@@ -142,7 +145,10 @@
     "schedule_show_booked": [
       "EDMM"
     ],
-    "cpdlc_login": "EDUC"
+    "cpdlc_login": "EDUC",
+    "airspace_groups": [
+      "TRU"
+    ]
   },
   {
     "logon": "EDUU_DON_CTR",
@@ -152,7 +158,10 @@
     "schedule_show_booked": [
       "EDMM"
     ],
-    "cpdlc_login": "EDUD"
+    "cpdlc_login": "EDUD",
+    "airspace_groups": [
+      "ALB"
+    ]
   },
   {
     "logon": "EDUU_ISA_CTR",
@@ -162,7 +171,10 @@
     "schedule_show_booked": [
       "EDMM"
     ],
-    "cpdlc_login": "EDUI"
+    "cpdlc_login": "EDUI",
+    "airspace_groups": [
+      "TRU"
+    ]
   },
   {
     "logon": "EDUU_ALP_CTR",
@@ -172,7 +184,10 @@
     "schedule_show_booked": [
       "EDMM"
     ],
-    "cpdlc_login": "EDUL"
+    "cpdlc_login": "EDUL",
+    "airspace_groups": [
+      "TRU"
+    ]
   },
   {
     "logon": "EDUU_SPE_CTR",
@@ -182,7 +197,10 @@
     "schedule_show_booked": [
       "EDMM"
     ],
-    "cpdlc_login": "EDUP"
+    "cpdlc_login": "EDUP",
+    "airspace_groups": [
+      "HOF"
+    ]
   },
   {
     "logon": "EDUU_ERL_CTR",
@@ -192,6 +210,9 @@
     "schedule_show_booked": [
       "EDMM"
     ],
-    "cpdlc_login": "EDUR"
+    "cpdlc_login": "EDUR",
+    "airspace_groups": [
+      "HOF"
+    ]
   }
 ]
