@@ -421,7 +421,7 @@
     "logon": "EDDF_H_APP",
     "frequency": "127.280",
     "abbreviation": "DFANT",
-    "description": "Frankfurt Director (North)",
+    "description": "Frankfurt Arrival (North)",
     "schedule_show_always": [
       "EDFF",
       "EDGG"
@@ -443,7 +443,7 @@
     "logon": "EDDF_L_APP",
     "frequency": "118.505",
     "abbreviation": "DFAST",
-    "description": "Frankfurt Director (South)",
+    "description": "Frankfurt Arrival (South)",
     "schedule_show_always": [
       "EDFF"
     ],
@@ -564,7 +564,7 @@
     "logon": "EDDG_F_APP",
     "frequency": "129.180",
     "abbreviation": "DGAT",
-    "description": "M\u00fcnster/Osnabr\u00fcck Director",
+    "description": "M\u00fcnster/Osnabr\u00fcck Arrival",
     "schedule_show_booked": [
       "EDGG",
       "EDLL"
@@ -719,7 +719,7 @@
     "logon": "EDDK_F_APP",
     "frequency": "121.055",
     "abbreviation": "DKAT",
-    "description": "K\u00f6ln/Bonn Director",
+    "description": "K\u00f6ln/Bonn Arrival",
     "schedule_show_always": [
       "EDLL",
       "EDGG"
@@ -846,7 +846,7 @@
     "logon": "EDDL_F_APP",
     "frequency": "128.655",
     "abbreviation": "DLAT",
-    "description": "D\u00fcsseldorf Director",
+    "description": "D\u00fcsseldorf Arrival",
     "schedule_show_always": [
       "EDLL",
       "EDGG"
@@ -867,7 +867,7 @@
   },
   {
     "logon": "EDDL_W_GND",
-    "frequency": "121.905",
+    "frequency": "121.680",
     "abbreviation": "DLGW",
     "description": "D\u00fcsseldorf Ground (West)",
     "schedule_show_always": [
@@ -1202,7 +1202,7 @@
     "logon": "EDDS_F_APP",
     "frequency": "119.850",
     "abbreviation": "DSAT",
-    "description": "Stuttgart Director",
+    "description": "Stuttgart Arrival",
     "schedule_show_always": [
       "EDFF",
       "EDGG"
@@ -3548,7 +3548,7 @@
   },
   {
     "logon": "EDUU_FUL_CTR",
-    "frequency": "133.655",
+    "frequency": "122.785",
     "abbreviation": "FUL",
     "description": "Rhein Radar (Fulda)",
     "schedule_show_always": [
@@ -4339,13 +4339,21 @@
     "logon": "ETAD_DEL",
     "frequency": "120.905",
     "abbreviation": "TADC",
-    "description": "Spangdahlem Clearance"
+    "description": "Spangdahlem Clearance",
+    "schedule_show_booked": [
+      "EDFF",
+      "EDGG"
+    ]
   },
   {
     "logon": "ETAD_GND",
     "frequency": "121.865",
     "abbreviation": "TADG",
-    "description": "Spangdahlem Ground"
+    "description": "Spangdahlem Ground",
+    "schedule_show_booked": [
+      "EDFF",
+      "EDGG"
+    ]
   },
   {
     "logon": "ETAD_TWR",
@@ -4371,7 +4379,11 @@
     "logon": "ETAR_GND",
     "frequency": "121.775",
     "abbreviation": "TARG",
-    "description": "Ramstein Ground"
+    "description": "Ramstein Ground",
+    "schedule_show_booked": [
+      "EDFF",
+      "EDGG"
+    ]
   },
   {
     "logon": "ETAR_TWR",
@@ -4440,12 +4452,6 @@
       "EDFF",
       "EDGG"
     ]
-  },
-  {
-    "logon": "ETHF_GND",
-    "frequency": "131.450",
-    "abbreviation": "THFG",
-    "description": "Fritzlar Ground"
   },
   {
     "logon": "ETHF_TWR",
@@ -4721,7 +4727,11 @@
     "logon": "ETOU_GND",
     "frequency": "126.555",
     "abbreviation": "TOUG",
-    "description": "Wiesbaden Ground"
+    "description": "Wiesbaden Ground",
+    "schedule_show_booked": [
+      "EDFF",
+      "EDGG"
+    ]
   },
   {
     "logon": "ETOU_TWR",
@@ -4745,7 +4755,7 @@
   },
   {
     "logon": "ETSB_TWR",
-    "frequency": "131.460",
+    "frequency": "129.060",
     "abbreviation": "TSBT",
     "description": "B\u00fcchel Tower",
     "schedule_show_booked": [

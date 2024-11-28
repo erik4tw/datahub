@@ -422,7 +422,7 @@
   {
     "id": "DLGW",
     "callsignPrefix": "EDDL",
-    "frequency": "121.905"
+    "frequency": "121.680"
   },
   {
     "id": "DMG1",
@@ -1892,7 +1892,7 @@
   {
     "id": "FUL",
     "callsignPrefix": "EDUU",
-    "frequency": "133.655"
+    "frequency": "122.785"
   },
   {
     "id": "HVL",
@@ -2375,11 +2375,6 @@
     "frequency": "120.865"
   },
   {
-    "id": "THFG",
-    "callsignPrefix": "ETHF",
-    "frequency": "131.450"
-  },
-  {
     "id": "THFT",
     "callsignPrefix": "ETHF",
     "frequency": "128.830"
@@ -2547,7 +2542,7 @@
   {
     "id": "TSBT",
     "callsignPrefix": "ETSB",
-    "frequency": "131.460"
+    "frequency": "129.060"
   },
   {
     "id": "SHR",
