@@ -122,6 +122,26 @@
     "s1_twr": true
   },
   {
+    "logon": "EDDB_AN_APP",
+    "frequency": "136.105",
+    "abbreviation": "DBANT",
+    "description": "Berlin Arrival (Feeder Nord)",
+    "schedule_show_booked": [
+      "EDWW"
+    ],
+    "gcap_status": "1"
+  },
+  {
+    "logon": "EDDB_AS_APP",
+    "frequency": "121.130",
+    "abbreviation": "DBAST",
+    "description": "Berlin Arrival (Feeder Sued)",
+    "schedule_show_always": [
+      "EDWW"
+    ],
+    "gcap_status": "1"
+  },
+  {
     "logon": "EDDB_A_GND",
     "frequency": "121.855",
     "abbreviation": "DBGA",
@@ -142,30 +162,10 @@
     "gcap_status": "1"
   },
   {
-    "logon": "EDDB_D_APP",
-    "frequency": "121.130",
-    "abbreviation": "DBAST",
-    "description": "Berlin Director Sued",
-    "schedule_show_always": [
-      "EDWW"
-    ],
-    "gcap_status": "1"
-  },
-  {
     "logon": "EDDB_E_GND",
     "frequency": "129.605",
     "abbreviation": "DBGE",
     "description": "Berlin Apron (Nord)",
-    "schedule_show_booked": [
-      "EDWW"
-    ],
-    "gcap_status": "1"
-  },
-  {
-    "logon": "EDDB_F_APP",
-    "frequency": "136.105",
-    "abbreviation": "DBANT",
-    "description": "Berlin Director Nord",
     "schedule_show_booked": [
       "EDWW"
     ],
@@ -259,26 +259,6 @@
     "description": "Berlin Tower (Sued)",
     "gcap_training_airport": true,
     "schedule_show_always": [
-      "EDWW"
-    ],
-    "gcap_status": "1"
-  },
-  {
-    "logon": "EDDB_Y_APP",
-    "frequency": "119.630",
-    "abbreviation": "DBANQ",
-    "description": "Bremen Radar (Berlin Arrival Nord Coordinator)",
-    "schedule_show_booked": [
-      "EDWW"
-    ],
-    "gcap_status": "1"
-  },
-  {
-    "logon": "EDDB_Z_APP",
-    "frequency": "126.425",
-    "abbreviation": "DBASQ",
-    "description": "Bremen Radar (Berlin Arrival Sued Coordinator)",
-    "schedule_show_booked": [
       "EDWW"
     ],
     "gcap_status": "1"
@@ -602,6 +582,16 @@
     "s1_twr": true
   },
   {
+    "logon": "EDDH_A_APP",
+    "frequency": "118.205",
+    "abbreviation": "DHAT",
+    "description": "Hamburg Arrival (Feeder)",
+    "schedule_show_always": [
+      "EDWW"
+    ],
+    "gcap_status": "1"
+  },
+  {
     "logon": "EDDH_DEL",
     "frequency": "121.805",
     "abbreviation": "DHL",
@@ -627,16 +617,6 @@
     "frequency": "121.705",
     "abbreviation": "DHE",
     "description": "Hamburg Apron (East)",
-    "schedule_show_always": [
-      "EDWW"
-    ],
-    "gcap_status": "1"
-  },
-  {
-    "logon": "EDDH_F_APP",
-    "frequency": "118.205",
-    "abbreviation": "DHAT",
-    "description": "Hamburg Director",
     "schedule_show_always": [
       "EDWW"
     ],
@@ -1271,19 +1251,19 @@
     ]
   },
   {
-    "logon": "EDDV_DEL",
-    "frequency": "120.405",
-    "abbreviation": "DVL",
-    "description": "Hannover Delivery",
+    "logon": "EDDV_A_APP",
+    "frequency": "119.605",
+    "abbreviation": "DVAT",
+    "description": "Hannover Arrival (Feeder)",
     "schedule_show_booked": [
       "EDWW"
     ]
   },
   {
-    "logon": "EDDV_F_APP",
-    "frequency": "119.605",
-    "abbreviation": "DVAT",
-    "description": "Hannover Director",
+    "logon": "EDDV_DEL",
+    "frequency": "120.405",
+    "abbreviation": "DVL",
+    "description": "Hannover Delivery",
     "schedule_show_booked": [
       "EDWW"
     ]
@@ -4252,10 +4232,20 @@
     "cpdlc_login": "EDYC"
   },
   {
-    "logon": "EDYY_H_CTR",
+    "logon": "EDYY_HH_CTR",
+    "frequency": "132.780",
+    "abbreviation": "HH",
+    "description": "Maastricht Radar (Holstein High)",
+    "schedule_show_booked": [
+      "EDWW"
+    ],
+    "cpdlc_login": "EDHH"
+  },
+  {
+    "logon": "EDYY_HL_CTR",
     "frequency": "120.860",
-    "abbreviation": "HOL",
-    "description": "Maastricht Radar (Holstein)",
+    "abbreviation": "HL",
+    "description": "Maastricht Radar (Holstein Low)",
     "schedule_show_booked": [
       "EDWW"
     ],
@@ -4264,7 +4254,7 @@
   {
     "logon": "EDYY_JH_CTR",
     "frequency": "129.735",
-    "abbreviation": "JEVH",
+    "abbreviation": "JH",
     "description": "Maastricht Radar (Jever High)",
     "schedule_show_booked": [
       "EDWW"
@@ -4272,10 +4262,10 @@
     "cpdlc_login": "EDJH"
   },
   {
-    "logon": "EDYY_J_CTR",
+    "logon": "EDYY_JL_CTR",
     "frequency": "136.465",
-    "abbreviation": "JEV",
-    "description": "Maastricht Radar (Jever)",
+    "abbreviation": "JL",
+    "description": "Maastricht Radar (Jever Low)",
     "schedule_show_booked": [
       "EDWW"
     ],
