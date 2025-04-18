@@ -53,6 +53,8 @@
   {
     "day": "5",
     "booking": [
+      "EDMM_ALB_CTR",
+      "EDMM_HOF_CTR",
       "EDMM_HAL_CTR"
     ]
   },
@@ -61,8 +63,6 @@
     "one_date": "2024-02-15",
     "days": "14",
     "booking": [
-      "EDMM_ALB_CTR",
-      "EDMM_HOF_CTR",
       "EDMM_HAL_CTR"
     ]
   }
