@@ -53,7 +53,7 @@
   },
   {
     "rule": "every_X_days",
-    "one_date": "2024-09-14",
+    "one_date": "2025-09-14",
     "days": "7",
     "booking": [
       "EDDV",
