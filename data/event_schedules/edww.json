@@ -2,7 +2,7 @@
   {
     "rule": "every_X_days",
     "one_date": "2025-09-19",
-    "days": "21",
+    "days": "42",
     "booking": [
       "EDDB",
       "EDDH",
@@ -18,7 +18,7 @@
   {
     "rule": "every_X_days",
     "one_date": "2025-09-26",
-    "days": "21",
+    "days": "42",
     "booking": [
       "EDDB",
       "EDDH",
