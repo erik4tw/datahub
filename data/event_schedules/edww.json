@@ -5,12 +5,12 @@
     "days": "21",
     "booking": [
       "EDDB",
-      "EDXW",
       "EDDH",
       "EDDW",
       "EDDV",
       "EDWW_A",
       "EDWW_M",
+      "EDWW_F",
       "EDWW_S",
       "EDWW_H"
     ]
@@ -21,12 +21,12 @@
     "days": "21",
     "booking": [
       "EDDB",
-      "EDXW",
       "EDDH",
       "EDDW",
       "EDDV",
       "EDWW_A",
       "EDWW_M",
+      "EDWW_F",
       "EDWW_S",
       "EDWW_H"
     ]
