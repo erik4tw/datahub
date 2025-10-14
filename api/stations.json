@@ -5,7 +5,8 @@
         "abbreviation": "ABI",
         "description": "Bautzen Information",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDAC_I_TWR",
@@ -13,7 +14,8 @@
         "abbreviation": "ACI",
         "description": "Altenburg Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDAH_TWR",
@@ -23,7 +25,8 @@
         "schedule_show_booked": [
             "EDWW"
         ],
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDAV_I_TWR",
@@ -31,7 +34,8 @@
         "abbreviation": "AVT",
         "description": "Finow Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDAY_I_TWR",
@@ -39,7 +43,8 @@
         "abbreviation": "AYT",
         "description": "Strausberg Information",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDAZ_I_TWR",
@@ -47,7 +52,8 @@
         "abbreviation": "AZT",
         "description": "Schoenhagen Information",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDBC_I_TWR",
@@ -55,7 +61,8 @@
         "abbreviation": "BCT",
         "description": "Cochstedt Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDBH_I_TWR",
@@ -63,7 +70,8 @@
         "abbreviation": "BHT",
         "description": "Barth Information",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDBK_I_TWR",
@@ -71,7 +79,8 @@
         "abbreviation": "BKT",
         "description": "Kyritz Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDBM_I_TWR",
@@ -79,7 +88,8 @@
         "abbreviation": "BMT",
         "description": "Magdeburg Information",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDBN_I_TWR",
@@ -87,7 +97,8 @@
         "abbreviation": "BNT",
         "description": "Neubrandenburg Information",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDBW_I_TWR",
@@ -95,7 +106,8 @@
         "abbreviation": "BWT",
         "description": "Werneuchen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDCA_I_TWR",
@@ -103,7 +115,8 @@
         "abbreviation": "CAT",
         "description": "Anklam Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDCG_I_TWR",
@@ -111,7 +124,8 @@
         "abbreviation": "CGT",
         "description": "Ruegen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDCP_I_TWR",
@@ -119,7 +133,8 @@
         "abbreviation": "CPT",
         "description": "Peenemuende Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDDB_DEL",
@@ -268,7 +283,8 @@
         "description": "",
         "schedule_show_booked": [
             "EDMM"
-        ]
+        ],
+        "s1_theory": true
     },
     {
         "logon": "EDDC_GND",
@@ -277,7 +293,8 @@
         "description": "Dresden Ground",
         "schedule_show_booked": [
             "EDMM"
-        ]
+        ],
+        "s1_theory": true
     },
     {
         "logon": "EDDC_TWR",
@@ -287,7 +304,8 @@
         "schedule_show_always": [
             "EDMM"
         ],
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDDC_SAS_APP",
@@ -305,7 +323,8 @@
         "description": "Erfurt Apron",
         "schedule_show_booked": [
             "EDMM"
-        ]
+        ],
+        "s1_theory": true
     },
     {
         "logon": "EDDE_GND",
@@ -314,7 +333,8 @@
         "description": "Erfurt Ground",
         "schedule_show_booked": [
             "EDMM"
-        ]
+        ],
+        "s1_theory": true
     },
     {
         "logon": "EDDE_TWR",
@@ -324,7 +344,8 @@
         "schedule_show_always": [
             "EDMM"
         ],
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDDF_CO_DEL",
@@ -513,7 +534,8 @@
         "description": "M\u00fcnster Ground",
         "schedule_show_booked": [
             "EDGG"
-        ]
+        ],
+        "s1_theory": true
     },
     {
         "logon": "EDDG_TWR",
@@ -523,7 +545,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDDG_F_APP",
@@ -1061,7 +1084,8 @@
         "description": "Saarbr\u00fccken Ground",
         "schedule_show_booked": [
             "EDGG"
-        ]
+        ],
+        "s1_theory": true
     },
     {
         "logon": "EDDR_TWR",
@@ -1071,7 +1095,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDDR_PFA_APP",
@@ -1232,7 +1257,8 @@
         "abbreviation": "EHI",
         "description": "Herrenteich Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDEL_I_TWR",
@@ -1240,7 +1266,8 @@
         "abbreviation": "ELI",
         "description": "Langenlonsheim Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDEM_I_TWR",
@@ -1248,7 +1275,8 @@
         "abbreviation": "EMI",
         "description": "Mosenberg Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDEN_I_TWR",
@@ -1256,7 +1284,8 @@
         "abbreviation": "ENI",
         "description": "Hersfeld Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDEP_I_TWR",
@@ -1264,7 +1293,8 @@
         "abbreviation": "EPI",
         "description": "Heppenheim Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDER_I_TWR",
@@ -1272,7 +1302,8 @@
         "abbreviation": "ERI",
         "description": "Wasserkuppe Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDEW_I_TWR",
@@ -1280,7 +1311,8 @@
         "abbreviation": "EWI",
         "description": "Walld\u00fcrn Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDFA_I_TWR",
@@ -1288,7 +1320,8 @@
         "abbreviation": "FAI",
         "description": "Anspach Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDFB_I_TWR",
@@ -1296,7 +1329,8 @@
         "abbreviation": "FBI",
         "description": "Reichelsheim Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDFC_I_TWR",
@@ -1304,7 +1338,8 @@
         "abbreviation": "FCI",
         "description": "Aschaffenburg Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDFD_I_TWR",
@@ -1312,7 +1347,8 @@
         "abbreviation": "FDI",
         "description": "Neustadt Saale Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDFE_GND",
@@ -1329,7 +1365,8 @@
             "EDGG"
         ],
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDFG_I_TWR",
@@ -1337,7 +1374,8 @@
         "abbreviation": "FGI",
         "description": "Gelnhausen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDFH_GND",
@@ -1346,7 +1384,8 @@
         "description": "Hahn Ground",
         "schedule_show_booked": [
             "EDGG"
-        ]
+        ],
+        "s1_theory": true
     },
     {
         "logon": "EDFH_TWR",
@@ -1356,7 +1395,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDFH_EIF_APP",
@@ -1373,7 +1413,8 @@
         "abbreviation": "FII",
         "description": "Hirzenhain Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDFJ_I_TWR",
@@ -1381,7 +1422,8 @@
         "abbreviation": "FJI",
         "description": "Hammelburg Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDFK_I_TWR",
@@ -1389,7 +1431,8 @@
         "abbreviation": "FKI",
         "description": "Bad Kissingen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDFL_I_TWR",
@@ -1397,7 +1440,8 @@
         "abbreviation": "FLI",
         "description": "L\u00fctzellinden Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDFM_TWR",
@@ -1424,7 +1468,8 @@
         "abbreviation": "FNI",
         "description": "Marburg Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDFO_I_TWR",
@@ -1432,7 +1477,8 @@
         "abbreviation": "FOI",
         "description": "Michelstadt Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDFP_I_TWR",
@@ -1440,7 +1486,8 @@
         "abbreviation": "FPI",
         "description": "Ober-M\u00f6rlen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDFQ_I_TWR",
@@ -1451,7 +1498,8 @@
             "EDGG"
         ],
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDFR_I_TWR",
@@ -1459,7 +1507,8 @@
         "abbreviation": "DFRI",
         "description": "Rothenburg Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDFS_I_TWR",
@@ -1467,7 +1516,8 @@
         "abbreviation": "FSI",
         "description": "Schweinfurt Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDFT_I_TWR",
@@ -1475,7 +1525,8 @@
         "abbreviation": "FTI",
         "description": "Lauterbach Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDFU_I_TWR",
@@ -1483,7 +1534,8 @@
         "abbreviation": "FUI",
         "description": "Mainbullau Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDFV_I_TWR",
@@ -1491,7 +1543,8 @@
         "abbreviation": "FVI",
         "description": "Worms Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDFW_I_TWR",
@@ -1499,7 +1552,8 @@
         "abbreviation": "FWI",
         "description": "W\u00fcrzburg Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDFX_I_TWR",
@@ -1507,7 +1561,8 @@
         "abbreviation": "FXI",
         "description": "Hockenheim Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDFY_I_TWR",
@@ -1515,7 +1570,8 @@
         "abbreviation": "FYI",
         "description": "Elz Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDFZ_I_TWR",
@@ -1523,7 +1579,8 @@
         "abbreviation": "FZI",
         "description": "Mainz Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDGA_I_TWR",
@@ -1531,7 +1588,8 @@
         "abbreviation": "GAI",
         "description": "Ailertchen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDGB_I_TWR",
@@ -1539,7 +1597,8 @@
         "abbreviation": "GBI",
         "description": "Breitscheid Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDGE_I_TWR",
@@ -1547,7 +1606,8 @@
         "abbreviation": "GEI",
         "description": "Eisenach Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDGF_I_TWR",
@@ -1555,7 +1615,8 @@
         "abbreviation": "GFI",
         "description": "Jossa Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDGG_BAD_CTR",
@@ -1723,7 +1784,8 @@
         "abbreviation": "GII",
         "description": "Ingelfingen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDGJ_I_TWR",
@@ -1731,7 +1793,8 @@
         "abbreviation": "GJI",
         "description": "Ochsenfurt Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDGK_I_TWR",
@@ -1739,7 +1802,8 @@
         "abbreviation": "GKI",
         "description": "Korbach Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDGM_I_TWR",
@@ -1747,7 +1811,8 @@
         "abbreviation": "GMI",
         "description": "Mosbach Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDGO_I_TWR",
@@ -1755,7 +1820,8 @@
         "abbreviation": "GOI",
         "description": "Oedheim Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDGP_I_TWR",
@@ -1763,7 +1829,8 @@
         "abbreviation": "GPI",
         "description": "Oppenheim Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDGQ_I_TWR",
@@ -1771,7 +1838,8 @@
         "abbreviation": "GQI",
         "description": "Schameder Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDGR_I_TWR",
@@ -1779,7 +1847,8 @@
         "abbreviation": "GRI",
         "description": "Reiskirchen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDGS_I_TWR",
@@ -1790,7 +1859,8 @@
             "EDGG"
         ],
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDGT_I_TWR",
@@ -1798,7 +1868,8 @@
         "abbreviation": "GTI",
         "description": "Bottenhorn Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDGU_I_TWR",
@@ -1806,7 +1877,8 @@
         "abbreviation": "GUI",
         "description": "Untersch\u00fcpf Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDGW_I_TWR",
@@ -1814,7 +1886,8 @@
         "abbreviation": "GWI",
         "description": "Wolfhagen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDGX_I_TWR",
@@ -1822,7 +1895,8 @@
         "abbreviation": "GXI",
         "description": "Walldorf Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDGZ_I_TWR",
@@ -1830,7 +1904,8 @@
         "abbreviation": "GZI",
         "description": "Weinheim Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDHE_I_TWR",
@@ -1838,7 +1913,8 @@
         "abbreviation": "HET",
         "description": "Uetersen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDHG_I_TWR",
@@ -1846,7 +1922,8 @@
         "abbreviation": "HGT",
         "description": "L\u00fcneburg Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDHI_TWR",
@@ -1863,7 +1940,8 @@
         "abbreviation": "HKT",
         "description": "Kiel Information",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDHL_GND",
@@ -1872,7 +1950,8 @@
         "description": "Luebeck Ground",
         "schedule_show_booked": [
             "EDWW"
-        ]
+        ],
+        "s1_theory": true
     },
     {
         "logon": "EDHL_TWR",
@@ -1882,7 +1961,8 @@
         "schedule_show_booked": [
             "EDWW"
         ],
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDHP_I_TWR",
@@ -1890,7 +1970,8 @@
         "abbreviation": "HPT",
         "description": "Pellworm Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDHS_I_TWR",
@@ -1898,7 +1979,8 @@
         "abbreviation": "HST",
         "description": "Stade Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDJA_GND",
@@ -1907,7 +1989,8 @@
         "description": "Memmingen Ground",
         "schedule_show_booked": [
             "EDMM"
-        ]
+        ],
+        "s1_theory": true
     },
     {
         "logon": "EDJA_TWR",
@@ -1917,7 +2000,8 @@
         "schedule_show_always": [
             "EDMM"
         ],
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDJA_ILR_APP",
@@ -1934,7 +2018,8 @@
         "abbreviation": "KAI",
         "description": "Aachen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDKB_I_TWR",
@@ -1942,7 +2027,8 @@
         "abbreviation": "KBI",
         "description": "Bonn-Hangelar Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDKD_I_TWR",
@@ -1950,7 +2036,8 @@
         "abbreviation": "KDI",
         "description": "Altena Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDKF_I_TWR",
@@ -1958,7 +2045,8 @@
         "abbreviation": "KFI",
         "description": "Bergneustadt Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDKH_I_TWR",
@@ -1966,7 +2054,8 @@
         "abbreviation": "KHI",
         "description": "H\u00fcnsborn Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDKI_I_TWR",
@@ -1974,7 +2063,8 @@
         "abbreviation": "KII",
         "description": "Betzdorf Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDKL_I_TWR",
@@ -1982,7 +2072,8 @@
         "abbreviation": "KLI",
         "description": "Leverkusen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDKM_I_TWR",
@@ -1990,7 +2081,8 @@
         "abbreviation": "KMI",
         "description": "Meschede Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDKN_I_TWR",
@@ -1998,7 +2090,8 @@
         "abbreviation": "KNI",
         "description": "Wipperf\u00fcrth Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDKO_I_TWR",
@@ -2006,7 +2099,8 @@
         "abbreviation": "KOI",
         "description": "Brilon Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDKP_I_TWR",
@@ -2014,7 +2108,8 @@
         "abbreviation": "KPI",
         "description": "Plettenberg Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDKR_I_TWR",
@@ -2022,7 +2117,8 @@
         "abbreviation": "KRI",
         "description": "Schmallenberg Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDKU_I_TWR",
@@ -2030,7 +2126,8 @@
         "abbreviation": "KUI",
         "description": "Attendorf Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDKV_I_TWR",
@@ -2038,7 +2135,8 @@
         "abbreviation": "KVI",
         "description": "Dahlemer Binz Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDKW_I_TWR",
@@ -2046,7 +2144,8 @@
         "abbreviation": "KWI",
         "description": "Werdohl Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDKZ_I_TWR",
@@ -2054,7 +2153,8 @@
         "abbreviation": "KZI",
         "description": "Meinerzhagen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDLA_I_TWR",
@@ -2062,7 +2162,8 @@
         "abbreviation": "LAI",
         "description": "Arnsberg Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDLB_I_TWR",
@@ -2070,7 +2171,8 @@
         "abbreviation": "LBI",
         "description": "Borkenberge Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDLC_I_TWR",
@@ -2078,7 +2180,8 @@
         "abbreviation": "LCI",
         "description": "Kamp-Lintfort Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDLD_I_TWR",
@@ -2086,7 +2189,8 @@
         "abbreviation": "LDI",
         "description": "Dinslaken Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDLE_I_TWR",
@@ -2094,7 +2198,8 @@
         "abbreviation": "LEI",
         "description": "Essen/M\u00fclheim Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDLF_I_TWR",
@@ -2102,7 +2207,8 @@
         "abbreviation": "LFI",
         "description": "Grefrath Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDLG_I_TWR",
@@ -2110,7 +2216,8 @@
         "abbreviation": "LGI",
         "description": "Goch Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDLH_I_TWR",
@@ -2118,7 +2225,8 @@
         "abbreviation": "LHI",
         "description": "Hamm Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDLI_I_TWR",
@@ -2126,7 +2234,8 @@
         "abbreviation": "LII",
         "description": "Bielefeld Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDLJ_I_TWR",
@@ -2134,7 +2243,8 @@
         "abbreviation": "LJI",
         "description": "Detmold Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDLK_I_TWR",
@@ -2142,7 +2252,8 @@
         "abbreviation": "LKI",
         "description": "Krefeld Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDLM_I_TWR",
@@ -2150,7 +2261,8 @@
         "abbreviation": "LMI",
         "description": "Marl Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDLN_GND",
@@ -2177,7 +2289,8 @@
         "abbreviation": "LOI",
         "description": "Oerlinghausen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDLP_GND",
@@ -2186,7 +2299,8 @@
         "description": "Paderborn Ground",
         "schedule_show_booked": [
             "EDGG"
-        ]
+        ],
+        "s1_theory": true
     },
     {
         "logon": "EDLP_TWR",
@@ -2196,7 +2310,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDLP_PAL_APP",
@@ -2213,7 +2328,8 @@
         "abbreviation": "LQI",
         "description": "Beelen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDLR_I_TWR",
@@ -2221,7 +2337,8 @@
         "abbreviation": "LRI",
         "description": "Haxterberg Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDLS_I_TWR",
@@ -2229,7 +2346,8 @@
         "abbreviation": "LSI",
         "description": "Stadtlohn Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDLT_I_TWR",
@@ -2237,7 +2355,8 @@
         "abbreviation": "LTI",
         "description": "Telgte Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDLV_TWR",
@@ -2247,7 +2366,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDLW_GND",
@@ -2256,7 +2376,8 @@
         "description": "Dortmund Ground",
         "schedule_show_booked": [
             "EDGG"
-        ]
+        ],
+        "s1_theory": true
     },
     {
         "logon": "EDLW_TWR",
@@ -2266,7 +2387,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDLX_I_TWR",
@@ -2274,7 +2396,8 @@
         "abbreviation": "LXI",
         "description": "Wesel Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDLY_I_TWR",
@@ -2282,7 +2405,8 @@
         "abbreviation": "LYI",
         "description": "Hoxfeld Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDLZ_I_TWR",
@@ -2290,7 +2414,8 @@
         "abbreviation": "LZI",
         "description": "Soest Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDMA_TWR",
@@ -2300,7 +2425,8 @@
         "schedule_show_always": [
             "EDMM"
         ],
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDMA_APP",
@@ -2315,7 +2441,8 @@
         "abbreviation": "MBI",
         "description": "Biberbach Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDME_I_TWR",
@@ -2323,7 +2450,8 @@
         "abbreviation": "MEI",
         "description": "Eggenfelden Information",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDMJ_I_TWR",
@@ -2331,7 +2459,8 @@
         "abbreviation": "MJI",
         "description": "Jesenwang Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDML_I_TWR",
@@ -2339,7 +2468,8 @@
         "abbreviation": "MLI",
         "description": "Landshut Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDMM_SWA_APP",
@@ -2505,7 +2635,8 @@
         "schedule_show_always": [
             "EDMM"
         ],
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDMS_I_TWR",
@@ -2513,7 +2644,8 @@
         "abbreviation": "MSI",
         "description": "Straubing Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDMT_I_TWR",
@@ -2521,7 +2653,8 @@
         "abbreviation": "MTI",
         "description": "Tannheim Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDMV_I_TWR",
@@ -2529,7 +2662,8 @@
         "abbreviation": "MVI",
         "description": "Vilshofen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDNC_I_TWR",
@@ -2537,7 +2671,8 @@
         "abbreviation": "NCI",
         "description": "Beilngries Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDNL_I_TWR",
@@ -2545,7 +2680,8 @@
         "abbreviation": "NLI",
         "description": "Leutkirch Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDNX_I_TWR",
@@ -2553,7 +2689,8 @@
         "abbreviation": "NXI",
         "description": "Schleissheim Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDNY_TWR",
@@ -2570,7 +2707,8 @@
         "abbreviation": "OIT",
         "description": "Bienenfarm Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDPA_I_TWR",
@@ -2578,7 +2716,8 @@
         "abbreviation": "PAI",
         "description": "Aalen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDPH_I_TWR",
@@ -2586,7 +2725,8 @@
         "abbreviation": "PHI",
         "description": "Schwabach Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDPU_I_TWR",
@@ -2594,7 +2734,8 @@
         "abbreviation": "PUI",
         "description": "Bartholom\u00e4 Start",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDPY_I_TWR",
@@ -2602,7 +2743,8 @@
         "abbreviation": "PYI",
         "description": "Ellwangen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDQA_I_TWR",
@@ -2610,7 +2752,8 @@
         "abbreviation": "QAI",
         "description": "Bamberg Information",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDQB_I_TWR",
@@ -2618,7 +2761,8 @@
         "abbreviation": "QBI",
         "description": "Windsheim Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDQC_I_TWR",
@@ -2626,7 +2770,8 @@
         "abbreviation": "QCI",
         "description": "Coburg Information",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDQD_I_TWR",
@@ -2634,7 +2779,8 @@
         "abbreviation": "QDI",
         "description": "Bayreuth Information",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDQE_I_TWR",
@@ -2642,7 +2788,8 @@
         "abbreviation": "QEI",
         "description": "Feuerstein Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDQF_I_TWR",
@@ -2650,7 +2797,8 @@
         "abbreviation": "QFI",
         "description": "Ansbach Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDQG_I_TWR",
@@ -2661,7 +2809,8 @@
             "EDGG"
         ],
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDQH_I_TWR",
@@ -2669,7 +2818,8 @@
         "abbreviation": "QHI",
         "description": "Herzogenaurach Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDQK_I_TWR",
@@ -2677,7 +2827,8 @@
         "abbreviation": "QKI",
         "description": "Kulmbach Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDQM_TWR",
@@ -2687,7 +2838,8 @@
         "schedule_show_always": [
             "EDMM"
         ],
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDQN_I_TWR",
@@ -2695,7 +2847,8 @@
         "abbreviation": "QNI",
         "description": "Neustadt/Aisch Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDQP_I_TWR",
@@ -2703,7 +2856,8 @@
         "abbreviation": "QPI",
         "description": "Rosenthal Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDQT_I_TWR",
@@ -2711,7 +2865,8 @@
         "abbreviation": "QTI",
         "description": "Hassfurt Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDQW_I_TWR",
@@ -2719,7 +2874,8 @@
         "abbreviation": "QWI",
         "description": "Weiden Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDQY_I_TWR",
@@ -2727,7 +2883,8 @@
         "abbreviation": "QYI",
         "description": "Steinruecken Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDRA_I_TWR",
@@ -2735,7 +2892,8 @@
         "abbreviation": "RAI",
         "description": "Neuenahr Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDRB_I_TWR",
@@ -2743,7 +2901,8 @@
         "abbreviation": "RBI",
         "description": "Bitburg Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDRC_I_TWR",
@@ -2751,7 +2910,8 @@
         "abbreviation": "RCI",
         "description": "Marpingen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDRD_I_TWR",
@@ -2759,7 +2919,8 @@
         "abbreviation": "RDI",
         "description": "Neumagen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDRE_I_TWR",
@@ -2767,7 +2928,8 @@
         "abbreviation": "REI",
         "description": "Mendig Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDRF_I_TWR",
@@ -2775,7 +2937,8 @@
         "abbreviation": "RFI",
         "description": "D\u00fcrkheim Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDRG_I_TWR",
@@ -2783,7 +2946,8 @@
         "abbreviation": "RGI",
         "description": "Idar-Oberstein Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDRH_I_TWR",
@@ -2791,7 +2955,8 @@
         "abbreviation": "RHI",
         "description": "Hoppst\u00e4dten Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDRI_I_TWR",
@@ -2799,7 +2964,8 @@
         "abbreviation": "RII",
         "description": "Linkenheim Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDRJ_I_TWR",
@@ -2807,7 +2973,8 @@
         "abbreviation": "RJI",
         "description": "Saarlouis Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDRK_I_TWR",
@@ -2815,7 +2982,8 @@
         "abbreviation": "RKI",
         "description": "Koblenz Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDRL_I_TWR",
@@ -2823,7 +2991,8 @@
         "abbreviation": "RLI",
         "description": "Lachen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDRM_I_TWR",
@@ -2831,7 +3000,8 @@
         "abbreviation": "RMI",
         "description": "Traben-Trarbach Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDRN_I_TWR",
@@ -2839,7 +3009,8 @@
         "abbreviation": "RNI",
         "description": "Nannhausen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDRO_I_TWR",
@@ -2847,7 +3018,8 @@
         "abbreviation": "ROI",
         "description": "Schweighofen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDRP_I_TWR",
@@ -2855,7 +3027,8 @@
         "abbreviation": "RPI",
         "description": "Pirmasens Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDRS_I_TWR",
@@ -2863,7 +3036,8 @@
         "abbreviation": "RSI",
         "description": "Sobernheim Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDRT_I_TWR",
@@ -2871,7 +3045,8 @@
         "abbreviation": "RTI",
         "description": "Trier Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDRV_I_TWR",
@@ -2879,7 +3054,8 @@
         "abbreviation": "RVI",
         "description": "Wershofen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDRW_I_TWR",
@@ -2887,7 +3063,8 @@
         "abbreviation": "RWI",
         "description": "Dierdorf Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDRX_I_TWR",
@@ -2895,7 +3072,8 @@
         "abbreviation": "RXI",
         "description": "Bexbach Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDRY_I_TWR",
@@ -2906,7 +3084,8 @@
             "EDGG"
         ],
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDRZ_I_TWR",
@@ -2917,7 +3096,8 @@
             "EDGG"
         ],
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDSA_I_TWR",
@@ -2925,7 +3105,8 @@
         "abbreviation": "SAI",
         "description": "Degerfeld Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDSB_GND",
@@ -2934,7 +3115,8 @@
         "description": "Baden Ground",
         "schedule_show_booked": [
             "EDGG"
-        ]
+        ],
+        "s1_theory": true
     },
     {
         "logon": "EDSB_TWR",
@@ -2944,7 +3126,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDSD_I_TWR",
@@ -2952,7 +3135,8 @@
         "abbreviation": "SDI",
         "description": "Egelsee Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDSF_I_TWR",
@@ -2960,7 +3144,8 @@
         "abbreviation": "SFI",
         "description": "H\u00fctten-Hotzenwald Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDSG_I_TWR",
@@ -2968,7 +3153,8 @@
         "abbreviation": "SGI",
         "description": "Grabenstetten Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDSH_I_TWR",
@@ -2976,7 +3162,8 @@
         "abbreviation": "SHI",
         "description": "Backnang Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDSI_I_TWR",
@@ -2984,7 +3171,8 @@
         "abbreviation": "SII",
         "description": "Binningen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDSK_I_TWR",
@@ -2992,7 +3180,8 @@
         "abbreviation": "SKI",
         "description": "Kehl Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDSL_I_TWR",
@@ -3000,7 +3189,8 @@
         "abbreviation": "SLI",
         "description": "Blumberg Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDSM_I_TWR",
@@ -3008,7 +3198,8 @@
         "abbreviation": "SMI",
         "description": "M\u00fcllheim Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDSN_I_TWR",
@@ -3016,7 +3207,8 @@
         "abbreviation": "SNI",
         "description": "Neuhausen ob Eck Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDSP_I_TWR",
@@ -3024,7 +3216,8 @@
         "abbreviation": "SPI",
         "description": "Poltringen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDSR_I_TWR",
@@ -3032,7 +3225,8 @@
         "abbreviation": "SRI",
         "description": "Stahringen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDST_I_TWR",
@@ -3040,7 +3234,8 @@
         "abbreviation": "STI",
         "description": "Hahnweide Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDSV_I_TWR",
@@ -3048,7 +3243,8 @@
         "abbreviation": "SVI",
         "description": "W\u00e4chtersberg Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDSW_I_TWR",
@@ -3056,7 +3252,8 @@
         "abbreviation": "SWI",
         "description": "Altdorf Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDSX_I_TWR",
@@ -3064,7 +3261,8 @@
         "abbreviation": "SXI",
         "description": "Lichtenberg Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDSZ_I_TWR",
@@ -3072,7 +3270,8 @@
         "abbreviation": "SZI",
         "description": "Rottweil Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDTA_I_TWR",
@@ -3080,7 +3279,8 @@
         "abbreviation": "TAI",
         "description": "Bohlhof Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDTB_I_TWR",
@@ -3088,7 +3288,8 @@
         "abbreviation": "TBI",
         "description": "Oos Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDTC_I_TWR",
@@ -3096,7 +3297,8 @@
         "abbreviation": "TCI",
         "description": "Bruchsal Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDTD_I_TWR",
@@ -3104,7 +3306,8 @@
         "abbreviation": "TDI",
         "description": "Donaueschingen Information",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDTE_I_TWR",
@@ -3112,7 +3315,8 @@
         "abbreviation": "TEI",
         "description": "Eutingen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDTF_I_TWR",
@@ -3120,7 +3324,8 @@
         "abbreviation": "TFI",
         "description": "Freiburg Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDTG_I_TWR",
@@ -3128,7 +3333,8 @@
         "abbreviation": "TGI",
         "description": "Bremgarten Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDTH_I_TWR",
@@ -3136,7 +3342,8 @@
         "abbreviation": "THI",
         "description": "Heubach Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDTK_I_TWR",
@@ -3144,7 +3351,8 @@
         "abbreviation": "TKI",
         "description": "Sinsheim Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDTL_TWR",
@@ -3162,7 +3370,8 @@
         "abbreviation": "TMI",
         "description": "Mengen Information",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDTM_I_TWR",
@@ -3170,7 +3379,8 @@
         "abbreviation": "TMI",
         "description": "Mengen Information",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDTN_I_TWR",
@@ -3178,7 +3388,8 @@
         "abbreviation": "TNI",
         "description": "Nabern Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDTO_I_TWR",
@@ -3186,7 +3397,8 @@
         "abbreviation": "TOI",
         "description": "Offenburg Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDTP_I_TWR",
@@ -3194,7 +3406,8 @@
         "abbreviation": "TPI",
         "description": "Pfullendorf Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDTQ_I_TWR",
@@ -3202,7 +3415,8 @@
         "abbreviation": "TQI",
         "description": "Pattonville Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDTR_I_TWR",
@@ -3210,7 +3424,8 @@
         "abbreviation": "TRI",
         "description": "Rheinfelden Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDTS_I_TWR",
@@ -3218,7 +3433,8 @@
         "abbreviation": "TSI",
         "description": "Schwenningen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDTU_I_TWR",
@@ -3226,7 +3442,8 @@
         "abbreviation": "TUI",
         "description": "Saulgau Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDTW_I_TWR",
@@ -3234,7 +3451,8 @@
         "abbreviation": "TWI",
         "description": "Winzeln Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDTY_I_TWR",
@@ -3245,7 +3463,8 @@
             "EDGG"
         ],
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDTZ_I_TWR",
@@ -3253,7 +3472,8 @@
         "abbreviation": "TZI",
         "description": "Konstanz Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDUU_ALP_CTR",
@@ -3421,7 +3641,8 @@
         "abbreviation": "VCT",
         "description": "Arloh Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDVE_TWR",
@@ -3431,7 +3652,8 @@
         "schedule_show_booked": [
             "EDWW"
         ],
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDVH_I_TWR",
@@ -3439,7 +3661,8 @@
         "abbreviation": "VHT",
         "description": "Hodenhagen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDVI_I_TWR",
@@ -3447,7 +3670,8 @@
         "abbreviation": "VIT",
         "description": "H\u00f6xter Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDVK_GND",
@@ -3456,7 +3680,8 @@
         "description": "Kassel Ground",
         "schedule_show_booked": [
             "EDWW"
-        ]
+        ],
+        "s1_theory": true
     },
     {
         "logon": "EDVK_TWR",
@@ -3466,7 +3691,8 @@
         "schedule_show_booked": [
             "EDWW"
         ],
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDVN_I_TWR",
@@ -3474,7 +3700,8 @@
         "abbreviation": "VNT",
         "description": "Northeim Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDVS_I_TWR",
@@ -3482,7 +3709,8 @@
         "abbreviation": "VST",
         "description": "Salzgitter Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDVU_I_TWR",
@@ -3490,7 +3718,8 @@
         "abbreviation": "VUT",
         "description": "Uelzen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDVW_I_TWR",
@@ -3498,7 +3727,8 @@
         "abbreviation": "VWT",
         "description": "Pyrmont Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDVY_I_TWR",
@@ -3506,7 +3736,8 @@
         "abbreviation": "VYT",
         "description": "Porta Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDWE_I_TWR",
@@ -3514,7 +3745,8 @@
         "abbreviation": "WET",
         "description": "Emden Information",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDWF_I_TWR",
@@ -3522,7 +3754,8 @@
         "abbreviation": "WFT",
         "description": "Leer Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDWG_I_TWR",
@@ -3530,7 +3763,8 @@
         "abbreviation": "WGT",
         "description": "Wooge Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDWI_I_TWR",
@@ -3538,7 +3772,8 @@
         "abbreviation": "WIT",
         "description": "Wilhelmshaven Information",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDWJ_I_TWR",
@@ -3546,7 +3781,8 @@
         "abbreviation": "WJT",
         "description": "Juist Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDWL_I_TWR",
@@ -3554,7 +3790,8 @@
         "abbreviation": "WLT",
         "description": "Langeoog Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDWN_I_TWR",
@@ -3562,7 +3799,8 @@
         "abbreviation": "WNT",
         "description": "Nordhorn Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDWO_I_TWR",
@@ -3570,7 +3808,8 @@
         "abbreviation": "WOT",
         "description": "Osnabr\u00fcck Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDWQ_I_TWR",
@@ -3578,7 +3817,8 @@
         "abbreviation": "WQT",
         "description": "Ganderkesee Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDWR_I_TWR",
@@ -3586,7 +3826,8 @@
         "abbreviation": "WRT",
         "description": "Borkum Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDWS_I_TWR",
@@ -3594,7 +3835,8 @@
         "abbreviation": "WST",
         "description": "Norddeich Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDWT_I_TWR",
@@ -3602,7 +3844,8 @@
         "abbreviation": "WTT",
         "description": "Blexen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDWW_A_CTR",
@@ -3721,7 +3964,8 @@
         "abbreviation": "WYT",
         "description": "Norderney Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDWZ_I_TWR",
@@ -3729,7 +3973,8 @@
         "abbreviation": "WZT",
         "description": "Baltrum Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDXB_I_TWR",
@@ -3737,7 +3982,8 @@
         "abbreviation": "XBT",
         "description": "B\u00fcsum Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDXH_I_TWR",
@@ -3745,7 +3991,8 @@
         "abbreviation": "XHT",
         "description": "Helgoland Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDXJ_I_TWR",
@@ -3753,7 +4000,8 @@
         "abbreviation": "XJT",
         "description": "Husum Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDXM_I_TWR",
@@ -3761,7 +4009,8 @@
         "abbreviation": "XMT",
         "description": "St. Michael Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDXN_I_TWR",
@@ -3769,7 +4018,8 @@
         "abbreviation": "XNT",
         "description": "Spieka Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDXO_I_TWR",
@@ -3777,7 +4027,8 @@
         "abbreviation": "XOT",
         "description": "St. Peter Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDXP_I_TWR",
@@ -3785,7 +4036,8 @@
         "abbreviation": "XPT",
         "description": "Harle Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDXQ_I_TWR",
@@ -3793,7 +4045,8 @@
         "abbreviation": "XQT",
         "description": "W\u00fcmme Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDXR_I_TWR",
@@ -3801,7 +4054,8 @@
         "abbreviation": "XRT",
         "description": "Rendsburg Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDXW_TWR",
@@ -3811,7 +4065,8 @@
         "schedule_show_booked": [
             "EDWW"
         ],
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDXX_FIS_CTR",
@@ -3927,7 +4182,8 @@
         "abbreviation": "XYT",
         "description": "Wyk Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDYY_BB_CTR",
@@ -4298,7 +4554,8 @@
         "abbreviation": "NDT",
         "description": "Diepholz Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "ETNG_TWR",
@@ -4567,6 +4824,7 @@
         "abbreviation": "WMT",
         "description": "Meppen Radio",
         "gcap_status": "AFIS",
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     }
 ]
