@@ -24,7 +24,7 @@
         "frequency": "119.905",
         "abbreviation": "DFTS",
         "description": "Frankfurt Tower (South)",
-        "schedule_show_always": [
+        "schedule_show_booked": [
             "EDGG"
         ],
         "gcap_status": "1"
