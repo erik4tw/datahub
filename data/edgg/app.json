@@ -88,16 +88,6 @@
         "gcap_status": "1"
     },
     {
-        "logon": "EDDK_F_APP",
-        "frequency": "121.055",
-        "abbreviation": "DKAT",
-        "description": "K\u00f6ln/Bonn Arrival",
-        "schedule_show_always": [
-            "EDGG"
-        ],
-        "gcap_status": "1"
-    },
-    {
         "logon": "EDDK_NOR_APP",
         "frequency": "127.365",
         "abbreviation": "NOR",
@@ -107,6 +97,16 @@
         ],
         "gcap_status": "1"
     },
+    {
+        "logon": "EDDK_F_APP",
+        "frequency": "121.055",
+        "abbreviation": "DKAT",
+        "description": "K\u00f6ln/Bonn Arrival",
+        "schedule_show_always": [
+            "EDGG"
+        ],
+        "gcap_status": "1"
+    },   
     {
         "logon": "EDDL_DEP",
         "frequency": "121.355",
